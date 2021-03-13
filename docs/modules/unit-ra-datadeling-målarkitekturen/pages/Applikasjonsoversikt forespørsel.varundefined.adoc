@@ -1,0 +1,20 @@
+= Applikasjonsoversikt forespørsel
+:wysiwig_editing: 1
+ifeval::[{wysiwig_editing} == 1]
+:imagepath: ../images/
+endif::[]
+ifeval::[{wysiwig_editing} == 0]
+:imagepath: main@unit-ra:unit-ra-datadeling-målarkitekturen:
+endif::[]
+:toc: left
+:toclevels: 4
+:sectnums:
+:sectnumlevels: 9
+
+
+
+.Applikasjonsoversikt forespørsel
+image::{imagepath}Applikasjonsoversikt forespørsel.png[alt=Applikasjonsoversikt forespørsel image]
+
+
+

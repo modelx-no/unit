@@ -1,0 +1,6 @@
+
+
+:leveloffset: +1
+include::main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Datautveksling ved oppslag.adoc[]
+include::main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Datautveksling ved publisering – konsumering (hendelsesbasert).adoc[]
+:leveloffset: -1

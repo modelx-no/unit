@@ -1,0 +1,21 @@
+= Avgi data - løsningsmønster UHF
+:wysiwig_editing: 1
+ifeval::[{wysiwig_editing} == 1]
+:imagepath: ../images/
+endif::[]
+ifeval::[{wysiwig_editing} == 0]
+:imagepath: main@unit-ra:unit-ra-datadeling-målarkitekturen:
+endif::[]
+:toc: left
+:toclevels: 4
+:sectnums:
+:sectnumlevels: 9
+
+En arbeidsflyt en tilbyder av data utfører for å svare på en dataforespørsel. Tilbyder mottar forespørsel om oppslag med et aksesstoken. Klienten som forespør autentiseres og token valideres. Eventuelt mer fin-granulert tilgangskontroll utføres og data returneres. Tilgang kontrolleres kun dersom det er snakk om et sikret API.
+
+
+.Avgi data - løsningsmønster UHF
+image::{imagepath}Avgi data - løsningsmønster UHF.png[alt=Avgi data - løsningsmønster UHF image]
+
+
+

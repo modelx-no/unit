@@ -1,0 +1,22 @@
+= Innhent data, detaljert verdistrøm konsument med kapabiliteter
+:wysiwig_editing: 1
+ifeval::[{wysiwig_editing} == 1]
+:imagepath: ../images/
+endif::[]
+ifeval::[{wysiwig_editing} == 0]
+:imagepath: main@unit-ra:unit-ra-datadeling-målarkitekturen:
+endif::[]
+:toc: left
+:toclevels: 4
+:sectnums:
+:sectnumlevels: 9
+
+
+
+
+
+.Innhent data, detaljert verdistrøm konsument med kapabiliteter
+image::{imagepath}Innhent data, detaljert verdistrøm konsument med kapabiliteter.png[alt=Innhent data, detaljert verdistrøm konsument med kapabiliteter image]
+
+
+
