@@ -21,7 +21,7 @@ image::{imagepath}Informasjonsforvaltningsdomener.png[alt=Informasjonsforvaltnin
 ****
 xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Informasjonsforvaltningsdomener.var.1.adoc[Vis detaljer om elementene i diagrammet]
 
-Tips: kbd:[Shift]-click to open in separate window
+TIP: kbd:[Shift]-klikk for å åpne i separat vindu
 ****
 
 

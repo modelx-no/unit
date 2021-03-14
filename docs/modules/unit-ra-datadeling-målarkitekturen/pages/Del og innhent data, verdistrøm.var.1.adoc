@@ -87,7 +87,7 @@ Data eier på to nivå: f. eks. studieavdelingen (er ikke dette behandlingsansva
 
 |===
 ****
-Gå tilbake til standardvisning ved å lukke dette vinduet (eller klikk 'tilbake')
+TIP: Gå tilbake til standardvisning ved å lukke dette vinduet (eller klikk 'tilbake')
 ****
 
 

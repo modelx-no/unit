@@ -111,7 +111,7 @@ Kan en databehandler besvare forespørselen automatisk på grunnlag av forhånds
 
 |===
 ****
-Gå tilbake til standardvisning ved å lukke dette vinduet (eller klikk 'tilbake')
+TIP: Gå tilbake til standardvisning ved å lukke dette vinduet (eller klikk 'tilbake')
 ****
 
 
