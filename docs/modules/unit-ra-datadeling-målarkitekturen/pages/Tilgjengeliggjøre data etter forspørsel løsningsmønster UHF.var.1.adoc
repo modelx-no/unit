@@ -108,5 +108,8 @@ Kan en databehandler besvare forespørselen automatisk på grunnlag av forhånds
 
 
 
-|===xref:C:\antora\modelx-no\components\unit-ra\docs\modules\unit-ra-datadeling-målarkitekturen\pages\Tilgjengeliggjøre data etter forspørsel løsningsmønster UHF.adoc[Vis uten detaljer om elementene i diagrammet]
+|===
+
+xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$NaN.adoc[]
+[Vis uten detaljer om elementene i diagrammet]
 

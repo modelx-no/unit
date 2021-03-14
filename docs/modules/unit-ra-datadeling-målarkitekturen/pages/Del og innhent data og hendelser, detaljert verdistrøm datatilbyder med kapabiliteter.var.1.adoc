@@ -257,5 +257,8 @@ For at virksomhetens deling av data skal videreutvikles og møte datakonsumenten
 Løsning:
 Personer som er ansvarlige for virksomhetens prosesser for deling av data må behandle tilbakemeldingene. Det må deretter vurderes om det skal gjøres endringer i prosessene 
 
-|===xref:C:\antora\modelx-no\components\unit-ra\docs\modules\unit-ra-datadeling-målarkitekturen\pages\Del og innhent data og hendelser, detaljert verdistrøm datatilbyder med kapabiliteter.adoc[Vis uten detaljer om elementene i diagrammet]
+|===
+
+xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$NaN.adoc[]
+[Vis uten detaljer om elementene i diagrammet]
 

@@ -110,5 +110,8 @@ EUNIS: Publication Management
 
 EUNIS: Research funding
 
-|===xref:C:\antora\modelx-no\components\unit-ra\docs\modules\unit-ra-datadeling-målarkitekturen\pages\Informasjonsforvaltningsdomener.adoc[Vis uten detaljer om elementene i diagrammet]
+|===
+
+xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$NaN.adoc[]
+[Vis uten detaljer om elementene i diagrammet]
 

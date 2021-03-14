@@ -96,5 +96,8 @@ Det må være et tydeligvalg om hvem (gateway eller API) har ansvar for sikkerhe
 | Autentiseringstjeneste
 | Tjeneste som benyttes av tilbyder for å autentisere aktuell konsument.
 
-|===xref:C:\antora\modelx-no\components\unit-ra\docs\modules\unit-ra-datadeling-målarkitekturen\pages\Applikasjonsoversikt forespørsel integrert med IAM.adoc[Vis uten detaljer om elementene i diagrammet]
+|===
+
+xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$NaN.adoc[]
+[Vis uten detaljer om elementene i diagrammet]
 

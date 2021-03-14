@@ -17,5 +17,6 @@ View dok....
 image::{imagepath}Applikasjonsoversikt forespørsel.png[alt=Applikasjonsoversikt forespørsel image]
 
 
-xref:C:\antora\modelx-no\components\unit-ra\docs\modules\unit-ra-datadeling-målarkitekturen\pages\Applikasjonsoversikt forespørsel.var.1.adoc[Vis detaljer om elementene i diagrammet]
+xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$NaN.var.1.adoc[]
+[Vis detaljer om elementene i diagrammet]
 

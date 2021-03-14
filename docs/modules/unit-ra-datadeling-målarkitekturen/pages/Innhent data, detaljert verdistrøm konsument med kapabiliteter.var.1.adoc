@@ -148,5 +148,8 @@ Løsning:
 Rutiner for riktig behandling av data i henhold til utleveringsavtale. Dette gjelder spesielt sikkerhet, samt riktig behandling av personopplysninger og andre skjermingsverdige data  
 
 
-|===xref:C:\antora\modelx-no\components\unit-ra\docs\modules\unit-ra-datadeling-målarkitekturen\pages\Innhent data, detaljert verdistrøm konsument med kapabiliteter.adoc[Vis uten detaljer om elementene i diagrammet]
+|===
+
+xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$NaN.adoc[]
+[Vis uten detaljer om elementene i diagrammet]
 

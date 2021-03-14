@@ -19,5 +19,6 @@ En arbeidsflyt som datatilbyder må gjennomføre for å tildele rettigheter til 
 image::{imagepath}Tilgjengeliggjøre data etter forspørsel løsningsmønster UHF.png[alt=Tilgjengeliggjøre data etter forspørsel løsningsmønster UHF image]
 
 
-xref:C:\antora\modelx-no\components\unit-ra\docs\modules\unit-ra-datadeling-målarkitekturen\pages\Tilgjengeliggjøre data etter forspørsel løsningsmønster UHF.var.1.adoc[Vis detaljer om elementene i diagrammet]
+xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$NaN.var.1.adoc[]
+[Vis detaljer om elementene i diagrammet]
 

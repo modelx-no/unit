@@ -84,5 +84,8 @@ Data eier på to nivå: f. eks. studieavdelingen (er ikke dette behandlingsansva
 | Forbedre løsninger, sikkerhet og datakvalitet (konsument)
 | 
 
-|===xref:C:\antora\modelx-no\components\unit-ra\docs\modules\unit-ra-datadeling-målarkitekturen\pages\Del og innhent data, verdistrøm.adoc[Vis uten detaljer om elementene i diagrammet]
+|===
+
+xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$NaN.adoc[]
+[Vis uten detaljer om elementene i diagrammet]
 

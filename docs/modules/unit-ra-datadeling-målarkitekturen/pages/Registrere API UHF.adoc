@@ -20,5 +20,6 @@ Kanskje omdøpe kapabiliteten til "Publiser API"
 image::{imagepath}Registrere API UHF.png[alt=Registrere API UHF image]
 
 
-xref:C:\antora\modelx-no\components\unit-ra\docs\modules\unit-ra-datadeling-målarkitekturen\pages\Registrere API UHF.var.1.adoc[Vis detaljer om elementene i diagrammet]
+xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$NaN.var.1.adoc[]
+[Vis detaljer om elementene i diagrammet]
 

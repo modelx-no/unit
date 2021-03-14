@@ -151,5 +151,8 @@ underenhet og behandlingssted, behandlingsgrunnlag og roller jobbes det med.
 | UHF API katalog
 | Oversikt over alle API som er registrert 
 
-|===xref:C:\antora\modelx-no\components\unit-ra\docs\modules\unit-ra-datadeling-målarkitekturen\pages\Innhente data - løsningsmønster UHF.adoc[Vis uten detaljer om elementene i diagrammet]
+|===
+
+xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$NaN.adoc[]
+[Vis uten detaljer om elementene i diagrammet]
 
