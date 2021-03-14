@@ -31,7 +31,7 @@ image::{imagepath}Del og innhent data og hendelser, detaljert verdistrøm datati
 
 
 ****
-xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Del og innhent data og hendelser, detaljert verdistrøm datatilbyder med kapabiliteter.var.1.adoc[Vis detaljer om elementene i diagrammet] (Tips: kbd:[Shift]-klikk)
+xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Del og innhent data og hendelser, detaljert verdistrøm datatilbyder med kapabiliteter.var.1.adoc[Vis detaljer om elementene i diagrammet] (Tips: kbd:[Shift]-klikk for å åpne i nytt vindu)
 ****
 
 
