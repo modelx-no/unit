@@ -20,7 +20,7 @@ image::{imagepath}Innhente data - løsningsmønster UHF.png[alt=Innhente data - 
 
 
 ****
-xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Innhente data - løsningsmønster UHF.var.1.adoc[Vis detaljer om elementene i diagrammet]
+xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Innhente data - løsningsmønster UHF.var.1.adoc[Vis detaljer om elementene i diagrammet] (kbd:[Shift]-klikk)
 ****
 
 

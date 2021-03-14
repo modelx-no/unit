@@ -20,7 +20,7 @@ image::{imagepath}Få tilgang til data - løsningsmønster UHF.png[alt=Få tilga
 
 
 ****
-xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Få tilgang til data - løsningsmønster UHF.var.1.adoc[Vis detaljer om elementene i diagrammet]
+xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Få tilgang til data - løsningsmønster UHF.var.1.adoc[Vis detaljer om elementene i diagrammet] (kbd:[Shift]-klikk)
 ****
 
 
