@@ -20,7 +20,7 @@ image::{imagepath}Avgi data - løsningsmønster UHF.png[alt=Avgi data - løsning
 
 
 ****
-xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Avgi data - løsningsmønster UHF.var.1.adoc[Vis detaljer om elementene i diagrammet] (kbd:[Shift]-klikk)
+xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Avgi data - løsningsmønster UHF.var.1.adoc[Vis detaljer om elementene i diagrammet] (Tips: kbd:[Shift]-klikk)
 ****
 
 

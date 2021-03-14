@@ -19,7 +19,7 @@ image::{imagepath}Applikasjonsoversikt forespørsel.png[alt=Applikasjonsoversikt
 
 
 ****
-xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Applikasjonsoversikt forespørsel.var.1.adoc[Vis detaljer om elementene i diagrammet] (kbd:[Shift]-klikk)
+xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Applikasjonsoversikt forespørsel.var.1.adoc[Vis detaljer om elementene i diagrammet] (Tips: kbd:[Shift]-klikk)
 ****
 
 
