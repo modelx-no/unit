@@ -21,8 +21,6 @@ image::{imagepath}Avgi data - løsningsmønster UHF.png[alt=Avgi data - løsning
 
 ****
 xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Avgi data - løsningsmønster UHF.var.1.adoc[Vis detaljer om elementene i diagrammet]
-
-TIP: kbd:[Shift]-klikk for å åpne i separat vindu
 ****
 
 

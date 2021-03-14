@@ -23,8 +23,6 @@ image::{imagepath}Registrere API UHF.png[alt=Registrere API UHF image]
 
 ****
 xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Registrere API UHF.var.1.adoc[Vis detaljer om elementene i diagrammet]
-
-TIP: kbd:[Shift]-klikk for å åpne i separat vindu
 ****
 
 

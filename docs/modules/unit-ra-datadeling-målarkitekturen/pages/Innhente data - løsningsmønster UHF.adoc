@@ -21,8 +21,6 @@ image::{imagepath}Innhente data - løsningsmønster UHF.png[alt=Innhente data - 
 
 ****
 xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Innhente data - løsningsmønster UHF.var.1.adoc[Vis detaljer om elementene i diagrammet]
-
-TIP: kbd:[Shift]-klikk for å åpne i separat vindu
 ****
 
 

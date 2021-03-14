@@ -20,8 +20,6 @@ image::{imagepath}Del og innhent data, verdistrøm.png[alt=Del og innhent data, 
 
 ****
 xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Del og innhent data, verdistrøm.var.1.adoc[Vis detaljer om elementene i diagrammet]
-
-TIP: kbd:[Shift]-klikk for å åpne i separat vindu
 ****
 
 
