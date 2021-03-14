@@ -87,5 +87,5 @@ Fra eHelse: Regler for et API som beskriver hvilke tilganger en datakonsument (r
 
 |===
 
-xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Få tilgang til data - løsningsmønster UHF.adoc[Vis uten detaljer om elementene i diagrammet]
+	xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Få tilgang til data - løsningsmønster UHF.adoc[Vis uten detaljer om elementene i diagrammet]
 

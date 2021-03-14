@@ -97,5 +97,5 @@ En klient må forholde seg til
 
 |===
 
-xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Registrere API UHF.adoc[Vis uten detaljer om elementene i diagrammet]
+	xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Registrere API UHF.adoc[Vis uten detaljer om elementene i diagrammet]
 
