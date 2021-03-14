@@ -18,6 +18,6 @@ En arbeidsflyt en tilbyder av data utfører for å svare på en dataforespørsel
 image::{imagepath}Avgi data - løsningsmønster UHF.png[alt=Avgi data - løsningsmønster UHF image]
 
 
-xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$NaN.var.1.adoc[]
+xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Avgi data - løsningsmønster UHF.var.1.adoc[]
 [Vis detaljer om elementene i diagrammet]
 

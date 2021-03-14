@@ -112,6 +112,6 @@ EUNIS: Research funding
 
 |===
 
-xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$NaN.adoc[]
+xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Informasjonsforvaltningsdomener.adoc[]
 [Vis uten detaljer om elementene i diagrammet]
 

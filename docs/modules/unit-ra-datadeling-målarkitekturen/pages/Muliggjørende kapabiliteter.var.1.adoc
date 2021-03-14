@@ -66,6 +66,6 @@ EUNIS: Legal services
 
 |===
 
-xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$NaN.adoc[]
+xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Muliggjørende kapabiliteter.adoc[]
 [Vis uten detaljer om elementene i diagrammet]
 

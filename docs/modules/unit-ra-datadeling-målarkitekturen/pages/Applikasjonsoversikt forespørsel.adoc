@@ -17,6 +17,6 @@ View dok....
 image::{imagepath}Applikasjonsoversikt forespørsel.png[alt=Applikasjonsoversikt forespørsel image]
 
 
-xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$NaN.var.1.adoc[]
+xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Applikasjonsoversikt forespørsel.var.1.adoc[]
 [Vis detaljer om elementene i diagrammet]
 

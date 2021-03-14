@@ -86,6 +86,6 @@ Data eier på to nivå: f. eks. studieavdelingen (er ikke dette behandlingsansva
 
 |===
 
-xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$NaN.adoc[]
+xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Del og innhent data, verdistrøm.adoc[]
 [Vis uten detaljer om elementene i diagrammet]
 

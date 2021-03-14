@@ -18,6 +18,6 @@ En arbeidsflyt en konsument av data må gjennomføre for å få tildelt rettighe
 image::{imagepath}Få tilgang til data - løsningsmønster UHF.png[alt=Få tilgang til data - løsningsmønster UHF image]
 
 
-xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$NaN.var.1.adoc[]
+xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Få tilgang til data - løsningsmønster UHF.var.1.adoc[]
 [Vis detaljer om elementene i diagrammet]
 
