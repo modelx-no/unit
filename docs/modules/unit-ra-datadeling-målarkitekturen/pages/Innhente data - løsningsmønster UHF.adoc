@@ -18,5 +18,6 @@ En arbeidsflyt en konsument utfører når det utføres et tjenestekall for å in
 image::{imagepath}Innhente data - løsningsmønster UHF.png[alt=Innhente data - løsningsmønster UHF image]
 
 
-xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Innhente data - løsningsmønster UHF.var.1.adoc[Vis detaljer om elementene i diagrammet]
+----xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Innhente data - løsningsmønster UHF.var.1.adoc[Vis detaljer om elementene i diagrammet]----
+
 

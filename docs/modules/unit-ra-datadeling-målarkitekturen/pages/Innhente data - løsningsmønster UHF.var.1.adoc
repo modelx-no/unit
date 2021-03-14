@@ -152,6 +152,6 @@ underenhet og behandlingssted, behandlingsgrunnlag og roller jobbes det med.
 | Oversikt over alle API som er registrert 
 
 |===
+----xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Innhente data - løsningsmønster UHF.adoc[Vis uten detaljer om elementene i diagrammet]----
 
-	xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Innhente data - løsningsmønster UHF.adoc[Vis uten detaljer om elementene i diagrammet]
 

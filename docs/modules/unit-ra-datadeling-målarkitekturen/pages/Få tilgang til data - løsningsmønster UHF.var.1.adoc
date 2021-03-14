@@ -86,6 +86,6 @@ underenhet og behandlingssted, behandlingsgrunnlag og roller jobbes det med.
 Fra eHelse: Regler for et API som beskriver hvilke tilganger en datakonsument (representert ved organisasjonsnummer) og deres klienter skal ha tilgang til (utstedt token for).
 
 |===
+----xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Få tilgang til data - løsningsmønster UHF.adoc[Vis uten detaljer om elementene i diagrammet]----
 
-	xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Få tilgang til data - løsningsmønster UHF.adoc[Vis uten detaljer om elementene i diagrammet]
 

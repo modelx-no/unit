@@ -17,5 +17,6 @@ endif::[]
 image::{imagepath}Informasjonsforvaltningsdomener.png[alt=Informasjonsforvaltningsdomener image]
 
 
-xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Informasjonsforvaltningsdomener.var.1.adoc[Vis detaljer om elementene i diagrammet]
+----xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Informasjonsforvaltningsdomener.var.1.adoc[Vis detaljer om elementene i diagrammet]----
+
 
