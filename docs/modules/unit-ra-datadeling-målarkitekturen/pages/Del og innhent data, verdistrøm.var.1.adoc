@@ -16,5 +16,72 @@ endif::[]
 .Del og innhent data, verdistrøm
 image::{imagepath}Del og innhent data, verdistrøm.png[alt=Del og innhent data, verdistrøm image]
 
-xref:C:\antora\modelx-no\components\unit-ra\docs\modules\unit-ra-datadeling-målarkitekturen\pages\Del og innhent data, verdistrøm.adoc[Vis uten detaljer  om elementene i diagrammet]
+
+
+[cols ="1,3", options="header"]
+.Elementer i view for Del og innhent data, verdistrøm
+|===
+
+| Element
+| Beskrivelse
+
+| Datatilbyder
+| Tilbyder av data til andre aktører.
+
+API Eiere  (kan eie Data som API gir tilgang til, eller system som tilbyr APIet)??
+
+Når virksomheten tilbyr åpne data, vil det være virksomheten som eier dataene. (men det bør vel definere et domen-eier innenfor virksomheten)
+
+Data eier på to nivå: f. eks. studieavdelingen (er ikke dette behandlingsansvarlig?) spør studenten om de gir samtykke til å gi tilgang til data om studenten som hen eier.
+
+
+| Del  data
+| 
+
+| Tilrettelegg for dataoppdagelse og datadeling
+| 
+
+| Avgi data
+| 
+
+
+| Sett opp avtaler, løsninger og tilganger etter henvendelse
+| 
+
+| Motta henvendelser om datadeling
+| 
+
+| Ta rede på egne data og krav til datadeling
+| 
+
+
+
+| Forbedre løsninger, sikkerhet og datakvalitet (tilbyder)
+| 
+
+| Data-konsument
+| Den som innhenter eller mottar data fra andre aktører.
+
+| Innhent data
+| 
+
+| Oppdag data og datakilder
+| 
+
+| Be  om tilganger og abonnementer
+| 
+
+| Forespør og motta data
+| 
+
+| Etabler avtaler og løsninger for datainnhenting
+| 
+
+| Ta rede på behov for innhenting av data
+| 
+
+| Forbedre løsninger, sikkerhet og datakvalitet (konsument)
+| 
+
+|===xref:C:\antora\modelx-no\components\unit-ra\docs\modules\unit-ra-datadeling-målarkitekturen\pages\Del og innhent data, verdistrøm.adoc[Vis uten detaljer om elementene i diagrammet]
 
