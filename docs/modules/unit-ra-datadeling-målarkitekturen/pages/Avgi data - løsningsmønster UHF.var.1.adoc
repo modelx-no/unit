@@ -19,6 +19,7 @@ image::{imagepath}Avgi data - løsningsmønster UHF.png[alt=Avgi data - løsning
 
 
 
+
 [cols ="1,3", options="header"]
 .Elementer i view for Avgi data - løsningsmønster UHF
 |===

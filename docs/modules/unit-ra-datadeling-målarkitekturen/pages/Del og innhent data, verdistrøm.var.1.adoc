@@ -18,6 +18,7 @@ image::{imagepath}Del og innhent data, verdistrøm.png[alt=Del og innhent data, 
 
 
 
+
 [cols ="1,3", options="header"]
 .Elementer i view for Del og innhent data, verdistrøm
 |===

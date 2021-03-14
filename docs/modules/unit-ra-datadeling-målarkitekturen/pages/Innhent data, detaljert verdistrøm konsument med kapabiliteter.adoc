@@ -18,5 +18,6 @@ endif::[]
 .Innhent data, detaljert verdistrøm konsument med kapabiliteter
 image::{imagepath}Innhent data, detaljert verdistrøm konsument med kapabiliteter.png[alt=Innhent data, detaljert verdistrøm konsument med kapabiliteter image]
 
+
 xref:C:\antora\modelx-no\components\unit-ra\docs\modules\unit-ra-datadeling-målarkitekturen\pages\Innhent data, detaljert verdistrøm konsument med kapabiliteter.var.1.adoc[Vis detaljer om elementene i diagrammet]
 

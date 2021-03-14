@@ -19,6 +19,7 @@ image::{imagepath}Få tilgang til data - løsningsmønster UHF.png[alt=Få tilga
 
 
 
+
 [cols ="1,3", options="header"]
 .Elementer i view for Få tilgang til data - løsningsmønster UHF
 |===

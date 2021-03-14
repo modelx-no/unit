@@ -16,5 +16,6 @@ endif::[]
 .Applikasjonsoversikt forespørsel integrert med IAM
 image::{imagepath}Applikasjonsoversikt forespørsel integrert med IAM.png[alt=Applikasjonsoversikt forespørsel integrert med IAM image]
 
+
 xref:C:\antora\modelx-no\components\unit-ra\docs\modules\unit-ra-datadeling-målarkitekturen\pages\Applikasjonsoversikt forespørsel integrert med IAM.var.1.adoc[Vis detaljer om elementene i diagrammet]
 

@@ -21,6 +21,7 @@ image::{imagepath}Registrere API UHF.png[alt=Registrere API UHF image]
 
 
 
+
 [cols ="1,3", options="header"]
 .Elementer i view for Registrere API UHF
 |===

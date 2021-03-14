@@ -16,5 +16,6 @@ endif::[]
 .Informasjonsforvaltningsdomener
 image::{imagepath}Informasjonsforvaltningsdomener.png[alt=Informasjonsforvaltningsdomener image]
 
+
 xref:C:\antora\modelx-no\components\unit-ra\docs\modules\unit-ra-datadeling-målarkitekturen\pages\Informasjonsforvaltningsdomener.var.1.adoc[Vis detaljer om elementene i diagrammet]
 

@@ -19,6 +19,7 @@ image::{imagepath}Innhente data - løsningsmønster UHF.png[alt=Innhente data - 
 
 
 
+
 [cols ="1,3", options="header"]
 .Elementer i view for Innhente data - løsningsmønster UHF
 |===

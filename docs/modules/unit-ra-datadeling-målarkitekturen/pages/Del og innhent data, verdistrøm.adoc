@@ -16,5 +16,6 @@ endif::[]
 .Del og innhent data, verdistrøm
 image::{imagepath}Del og innhent data, verdistrøm.png[alt=Del og innhent data, verdistrøm image]
 
+
 xref:C:\antora\modelx-no\components\unit-ra\docs\modules\unit-ra-datadeling-målarkitekturen\pages\Del og innhent data, verdistrøm.var.1.adoc[Vis detaljer om elementene i diagrammet]
 

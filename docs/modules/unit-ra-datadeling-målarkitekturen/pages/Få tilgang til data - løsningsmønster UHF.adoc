@@ -17,5 +17,6 @@ En arbeidsflyt en konsument av data må gjennomføre for å få tildelt rettighe
 .Få tilgang til data - løsningsmønster UHF
 image::{imagepath}Få tilgang til data - løsningsmønster UHF.png[alt=Få tilgang til data - løsningsmønster UHF image]
 
+
 xref:C:\antora\modelx-no\components\unit-ra\docs\modules\unit-ra-datadeling-målarkitekturen\pages\Få tilgang til data - løsningsmønster UHF.var.1.adoc[Vis detaljer om elementene i diagrammet]
 
