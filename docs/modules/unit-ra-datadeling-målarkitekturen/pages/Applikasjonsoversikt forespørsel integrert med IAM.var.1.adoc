@@ -97,6 +97,7 @@ Det må være et tydeligvalg om hvem (gateway eller API) har ansvar for sikkerhe
 | Tjeneste som benyttes av tilbyder for å autentisere aktuell konsument.
 
 |===
-[sidebar]xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Applikasjonsoversikt forespørsel integrert med IAM.adoc[Vis uten detaljer om elementene i diagrammet]
+****
+Gå tilbake til standardvisning ved å lukke dette vinduet (eller klikk 'tilbake')****
 
 

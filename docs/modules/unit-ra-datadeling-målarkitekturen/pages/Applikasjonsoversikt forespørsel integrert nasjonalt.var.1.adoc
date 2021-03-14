@@ -100,6 +100,7 @@ https://www.altinndigital.no/produkter/styring-av-tilgang/
 | Del av Felles datakatalog som gir mulighet for å søke etter API-er og lese API-spesifikasjoner https://fellesdatakatalog.brreg.no/apis
 
 |===
-[sidebar]xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Applikasjonsoversikt forespørsel integrert nasjonalt.adoc[Vis uten detaljer om elementene i diagrammet]
+****
+Gå tilbake til standardvisning ved å lukke dette vinduet (eller klikk 'tilbake')****
 
 

@@ -109,6 +109,7 @@ Det må være et tydeligvalg om hvem (gateway eller API) har ansvar for sikkerhe
 
 
 |===
-[sidebar]xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Avgi data - løsningsmønster UHF.adoc[Vis uten detaljer om elementene i diagrammet]
+****
+Gå tilbake til standardvisning ved å lukke dette vinduet (eller klikk 'tilbake')****
 
 

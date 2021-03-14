@@ -11,15 +11,16 @@ endif::[]
 :sectnums:
 :sectnumlevels: 9
 
-:experimental:
+
 
 .Applikasjonsoversikt forespørsel integrert nasjonalt
 image::{imagepath}Applikasjonsoversikt forespørsel integrert nasjonalt.png[alt=Applikasjonsoversikt forespørsel integrert nasjonalt image]
 
 
 ****
-xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Applikasjonsoversikt forespørsel integrert nasjonalt.var.1.adoc[Vis detaljer om elementene i diagrammet] _Tips: 
-kbd:[Shift]-klikk for å åpne i eget vindu_.
+xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Applikasjonsoversikt forespørsel integrert nasjonalt.var.1.adoc[Vis detaljer om elementene i diagrammet]
+
+Tips: kbd:[Shift]-click to open in separate window
 ****
 
 

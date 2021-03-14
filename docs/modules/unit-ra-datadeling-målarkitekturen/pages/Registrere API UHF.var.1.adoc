@@ -96,6 +96,7 @@ En klient må forholde seg til
 | Oversikt over alle API som er registrert 
 
 |===
-[sidebar]xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Registrere API UHF.adoc[Vis uten detaljer om elementene i diagrammet]
+****
+Gå tilbake til standardvisning ved å lukke dette vinduet (eller klikk 'tilbake')****
 
 

@@ -20,7 +20,7 @@ image::{imagepath}Muliggjørende kapabiliteter.png[alt=Muliggjørende kapabilite
 ****
 xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Muliggjørende kapabiliteter.var.1.adoc[Vis detaljer om elementene i diagrammet]
 
-Hint: kbd:[Shift]-click to open in separate window
+Tips: kbd:[Shift]-click to open in separate window
 ****
 
 

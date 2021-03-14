@@ -258,6 +258,7 @@ Løsning:
 Personer som er ansvarlige for virksomhetens prosesser for deling av data må behandle tilbakemeldingene. Det må deretter vurderes om det skal gjøres endringer i prosessene 
 
 |===
-[sidebar]xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Del og innhent data og hendelser, detaljert verdistrøm datatilbyder med kapabiliteter.adoc[Vis uten detaljer om elementene i diagrammet]
+****
+Gå tilbake til standardvisning ved å lukke dette vinduet (eller klikk 'tilbake')****
 
 

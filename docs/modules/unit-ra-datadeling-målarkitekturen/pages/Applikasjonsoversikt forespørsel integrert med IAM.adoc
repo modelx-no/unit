@@ -20,7 +20,7 @@ image::{imagepath}Applikasjonsoversikt forespørsel integrert med IAM.png[alt=Ap
 ****
 xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Applikasjonsoversikt forespørsel integrert med IAM.var.1.adoc[Vis detaljer om elementene i diagrammet]
 
-Hint: kbd:[Shift]-click to open in separate window
+Tips: kbd:[Shift]-click to open in separate window
 ****
 
 

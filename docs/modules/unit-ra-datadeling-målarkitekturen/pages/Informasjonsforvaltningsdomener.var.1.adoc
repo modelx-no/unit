@@ -111,6 +111,7 @@ EUNIS: Publication Management
 EUNIS: Research funding
 
 |===
-[sidebar]xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Informasjonsforvaltningsdomener.adoc[Vis uten detaljer om elementene i diagrammet]
+****
+Gå tilbake til standardvisning ved å lukke dette vinduet (eller klikk 'tilbake')****
 
 
