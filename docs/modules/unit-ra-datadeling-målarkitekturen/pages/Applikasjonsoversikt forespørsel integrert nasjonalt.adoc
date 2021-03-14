@@ -17,7 +17,9 @@ endif::[]
 image::{imagepath}Applikasjonsoversikt forespørsel integrert nasjonalt.png[alt=Applikasjonsoversikt forespørsel integrert nasjonalt image]
 
 
-****xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Applikasjonsoversikt forespørsel integrert nasjonalt.var.1.adoc[Vis detaljer om elementene i diagrammet]
+****
+xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Applikasjonsoversikt forespørsel integrert nasjonalt.var.1.adoc[Vis detaljer om elementene i diagrammet]
+
 Hint: kbd:[Shift]-click to open in separate window
 ****
 

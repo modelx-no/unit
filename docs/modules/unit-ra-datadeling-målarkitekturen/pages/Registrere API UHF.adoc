@@ -20,7 +20,9 @@ Kanskje omdøpe kapabiliteten til "Publiser API"
 image::{imagepath}Registrere API UHF.png[alt=Registrere API UHF image]
 
 
-****xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Registrere API UHF.var.1.adoc[Vis detaljer om elementene i diagrammet]
+****
+xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Registrere API UHF.var.1.adoc[Vis detaljer om elementene i diagrammet]
+
 Hint: kbd:[Shift]-click to open in separate window
 ****
 

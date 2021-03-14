@@ -29,7 +29,9 @@ Prosesser for å dele data som åpne data
 image::{imagepath}Del og innhent data og hendelser, detaljert verdistrøm datatilbyder med kapabiliteter.png[alt=Del og innhent data og hendelser, detaljert verdistrøm datatilbyder med kapabiliteter image]
 
 
-****xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Del og innhent data og hendelser, detaljert verdistrøm datatilbyder med kapabiliteter.var.1.adoc[Vis detaljer om elementene i diagrammet]
+****
+xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Del og innhent data og hendelser, detaljert verdistrøm datatilbyder med kapabiliteter.var.1.adoc[Vis detaljer om elementene i diagrammet]
+
 Hint: kbd:[Shift]-click to open in separate window
 ****
 

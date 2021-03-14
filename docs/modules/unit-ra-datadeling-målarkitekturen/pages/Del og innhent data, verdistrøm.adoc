@@ -17,7 +17,9 @@ endif::[]
 image::{imagepath}Del og innhent data, verdistrøm.png[alt=Del og innhent data, verdistrøm image]
 
 
-****xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Del og innhent data, verdistrøm.var.1.adoc[Vis detaljer om elementene i diagrammet]
+****
+xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Del og innhent data, verdistrøm.var.1.adoc[Vis detaljer om elementene i diagrammet]
+
 Hint: kbd:[Shift]-click to open in separate window
 ****
 
