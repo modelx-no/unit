@@ -110,6 +110,7 @@ Det må være et tydeligvalg om hvem (gateway eller API) har ansvar for sikkerhe
 
 |===
 ****
-Gå tilbake til standardvisning ved å lukke dette vinduet (eller klikk 'tilbake')****
+Gå tilbake til standardvisning ved å lukke dette vinduet (eller klikk 'tilbake')
+****
 
 

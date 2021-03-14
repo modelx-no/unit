@@ -150,6 +150,7 @@ Rutiner for riktig behandling av data i henhold til utleveringsavtale. Dette gje
 
 |===
 ****
-Gå tilbake til standardvisning ved å lukke dette vinduet (eller klikk 'tilbake')****
+Gå tilbake til standardvisning ved å lukke dette vinduet (eller klikk 'tilbake')
+****
 
 
