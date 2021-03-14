@@ -98,6 +98,5 @@ Det må være et tydeligvalg om hvem (gateway eller API) har ansvar for sikkerhe
 
 |===
 
-xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Applikasjonsoversikt forespørsel integrert med IAM.adoc[]
-[Vis uten detaljer om elementene i diagrammet]
+xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Applikasjonsoversikt forespørsel integrert med IAM.adoc[Vis uten detaljer om elementene i diagrammet]
 

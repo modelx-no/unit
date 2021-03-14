@@ -259,6 +259,5 @@ Personer som er ansvarlige for virksomhetens prosesser for deling av data må be
 
 |===
 
-xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Del og innhent data og hendelser, detaljert verdistrøm datatilbyder med kapabiliteter.adoc[]
-[Vis uten detaljer om elementene i diagrammet]
+xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Del og innhent data og hendelser, detaljert verdistrøm datatilbyder med kapabiliteter.adoc[Vis uten detaljer om elementene i diagrammet]
 

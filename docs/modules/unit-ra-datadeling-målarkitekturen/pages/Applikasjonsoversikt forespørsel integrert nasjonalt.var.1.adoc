@@ -101,6 +101,5 @@ https://www.altinndigital.no/produkter/styring-av-tilgang/
 
 |===
 
-xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Applikasjonsoversikt forespørsel integrert nasjonalt.adoc[]
-[Vis uten detaljer om elementene i diagrammet]
+xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Applikasjonsoversikt forespørsel integrert nasjonalt.adoc[Vis uten detaljer om elementene i diagrammet]
 

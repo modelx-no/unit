@@ -110,6 +110,5 @@ Kan en databehandler besvare forespørselen automatisk på grunnlag av forhånds
 
 |===
 
-xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Tilgjengeliggjøre data etter forspørsel løsningsmønster UHF.adoc[]
-[Vis uten detaljer om elementene i diagrammet]
+xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Tilgjengeliggjøre data etter forspørsel løsningsmønster UHF.adoc[Vis uten detaljer om elementene i diagrammet]
 
