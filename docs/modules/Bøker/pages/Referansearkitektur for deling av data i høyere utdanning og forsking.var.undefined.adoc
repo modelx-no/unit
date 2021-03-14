@@ -7,6 +7,7 @@ ifeval::[{wysiwig_editing} == 0]
 :imagepath: main@unit-ra:Bøker:
 endif::[]
 :toc: left
+:experimental:
 :toclevels: 4
 :sectnums:
 :sectnumlevels: 9
@@ -16,7 +17,7 @@ endif::[]
 image:{imagepath}image1.jpeg[]
 
 ----
-Sun Mar 14 2021 23:21:37 GMT+0100 (CET)
+Sun Mar 14 2021 23:27:11 GMT+0100 (CET)
 Erik Hagen 	erik.hagen@digdir.no
 ----
 
