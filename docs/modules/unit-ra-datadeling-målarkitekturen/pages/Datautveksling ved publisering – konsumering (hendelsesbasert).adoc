@@ -1,4 +1,4 @@
-= Informasjonsforvaltningsdomener
+= Datautveksling ved publisering – konsumering (hendelsesbasert)
 :wysiwig_editing: 1
 ifeval::[{wysiwig_editing} == 1]
 :imagepath: ../images/
@@ -10,11 +10,6 @@ endif::[]
 :toclevels: 4
 :sectnums:
 :sectnumlevels: 9
-
-
-
-.Informasjonsforvaltningsdomener
-image::{imagepath}Informasjonsforvaltningsdomener.png[alt=Informasjonsforvaltningsdomener image]
 
 
 

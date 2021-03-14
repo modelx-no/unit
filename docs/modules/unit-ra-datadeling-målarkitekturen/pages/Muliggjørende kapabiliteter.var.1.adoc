@@ -16,5 +16,5 @@ Informasjonen som skal forvaltes finnes i en faglig kontekst som vi kaller «dom
 .Muliggjørende kapabiliteter
 image::{imagepath}Muliggjørende kapabiliteter.png[alt=Muliggjørende kapabiliteter image]
 
-
+xref:C:\antora\modelx-no\components\unit-ra\docs\modules\unit-ra-datadeling-målarkitekturen\pages\Muliggjørende kapabiliteter.adoc[Vis uten detaljer  om elementene i diagrammet]
 

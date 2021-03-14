@@ -17,5 +17,5 @@ En arbeidsflyt en konsument utfører når det utføres et tjenestekall for å in
 .Innhente data - løsningsmønster UHF
 image::{imagepath}Innhente data - løsningsmønster UHF.png[alt=Innhente data - løsningsmønster UHF image]
 
-
+xref:C:\antora\modelx-no\components\unit-ra\docs\modules\unit-ra-datadeling-målarkitekturen\pages\Innhente data - løsningsmønster UHF.adoc[Vis uten detaljer  om elementene i diagrammet]
 

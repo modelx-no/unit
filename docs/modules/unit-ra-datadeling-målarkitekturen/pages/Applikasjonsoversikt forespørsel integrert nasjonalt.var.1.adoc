@@ -16,5 +16,5 @@ endif::[]
 .Applikasjonsoversikt forespørsel integrert nasjonalt
 image::{imagepath}Applikasjonsoversikt forespørsel integrert nasjonalt.png[alt=Applikasjonsoversikt forespørsel integrert nasjonalt image]
 
-
+xref:C:\antora\modelx-no\components\unit-ra\docs\modules\unit-ra-datadeling-målarkitekturen\pages\Applikasjonsoversikt forespørsel integrert nasjonalt.adoc[Vis uten detaljer  om elementene i diagrammet]
 

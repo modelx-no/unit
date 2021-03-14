@@ -17,5 +17,5 @@ En arbeidsflyt en tilbyder av data utfører for å svare på en dataforespørsel
 .Avgi data - løsningsmønster UHF
 image::{imagepath}Avgi data - løsningsmønster UHF.png[alt=Avgi data - løsningsmønster UHF image]
 
-
+xref:C:\antora\modelx-no\components\unit-ra\docs\modules\unit-ra-datadeling-målarkitekturen\pages\Avgi data - løsningsmønster UHF.adoc[Vis uten detaljer  om elementene i diagrammet]
 

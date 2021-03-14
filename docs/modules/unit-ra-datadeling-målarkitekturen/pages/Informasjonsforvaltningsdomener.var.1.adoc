@@ -1,0 +1,20 @@
+= Informasjonsforvaltningsdomener
+:wysiwig_editing: 1
+ifeval::[{wysiwig_editing} == 1]
+:imagepath: ../images/
+endif::[]
+ifeval::[{wysiwig_editing} == 0]
+:imagepath: main@unit-ra:unit-ra-datadeling-målarkitekturen:
+endif::[]
+:toc: left
+:toclevels: 4
+:sectnums:
+:sectnumlevels: 9
+
+
+
+.Informasjonsforvaltningsdomener
+image::{imagepath}Informasjonsforvaltningsdomener.png[alt=Informasjonsforvaltningsdomener image]
+
+xref:C:\antora\modelx-no\components\unit-ra\docs\modules\unit-ra-datadeling-målarkitekturen\pages\Informasjonsforvaltningsdomener.adoc[Vis uten detaljer  om elementene i diagrammet]
+
