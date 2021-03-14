@@ -12,7 +12,7 @@ endif::[]
 :sectnums:
 :sectnumlevels: 9
 
-View dok....
+Narrativ for dette "viewet"...
 
 .Applikasjonsoversikt forespørsel
 image::{imagepath}Applikasjonsoversikt forespørsel.png[alt=Applikasjonsoversikt forespørsel image]
