@@ -20,6 +20,7 @@ endif::[]
 image::{imagepath}Innhent data, detaljert verdistrøm konsument med kapabiliteter.png[alt=Innhent data, detaljert verdistrøm konsument med kapabiliteter image]
 
 
+TIP: Gå tilbake til standardvisning ved å lukke dette vinduet (eller klikk 'tilbake')
 
 
 [cols ="1,3", options="header"]

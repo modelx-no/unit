@@ -30,6 +30,7 @@ Prosesser for å dele data som åpne data
 image::{imagepath}Del og innhent data og hendelser, detaljert verdistrøm datatilbyder med kapabiliteter.png[alt=Del og innhent data og hendelser, detaljert verdistrøm datatilbyder med kapabiliteter image]
 
 
+TIP: Gå tilbake til standardvisning ved å lukke dette vinduet (eller klikk 'tilbake')
 
 
 [cols ="1,3", options="header"]

@@ -19,6 +19,7 @@ En arbeidsflyt en konsument av data må gjennomføre for å få tildelt rettighe
 image::{imagepath}Få tilgang til data - løsningsmønster UHF.png[alt=Få tilgang til data - løsningsmønster UHF image]
 
 
+TIP: Gå tilbake til standardvisning ved å lukke dette vinduet (eller klikk 'tilbake')
 
 
 [cols ="1,3", options="header"]

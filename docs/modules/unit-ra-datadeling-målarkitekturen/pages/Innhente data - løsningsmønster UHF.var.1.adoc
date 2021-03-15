@@ -19,6 +19,7 @@ En arbeidsflyt en konsument utfører når det utføres et tjenestekall for å in
 image::{imagepath}Innhente data - løsningsmønster UHF.png[alt=Innhente data - løsningsmønster UHF image]
 
 
+TIP: Gå tilbake til standardvisning ved å lukke dette vinduet (eller klikk 'tilbake')
 
 
 [cols ="1,3", options="header"]

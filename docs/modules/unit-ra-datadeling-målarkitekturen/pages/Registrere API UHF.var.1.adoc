@@ -21,6 +21,7 @@ Kanskje omdøpe kapabiliteten til "Publiser API"
 image::{imagepath}Registrere API UHF.png[alt=Registrere API UHF image]
 
 
+TIP: Gå tilbake til standardvisning ved å lukke dette vinduet (eller klikk 'tilbake')
 
 
 [cols ="1,3", options="header"]
