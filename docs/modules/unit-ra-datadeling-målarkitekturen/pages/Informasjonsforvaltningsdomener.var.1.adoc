@@ -36,6 +36,10 @@ TIP: Gå tilbake til standardvisning ved å lukke dette vinduet (eller klikk 'ti
 
 EUNIS: Strategy and Governance 
 
+* pkt. 1
+* pkt. 2
+* pkt. 3
+
 | Kommersiell aktivitet
 | Alle egenskaper som kreves for å sikre at organisasjonen er i stand til å utvikle, levere, støtte og administrere kommersiell aktivitet.
 
