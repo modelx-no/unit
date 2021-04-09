@@ -31,14 +31,14 @@ TIP: Gå tilbake til standardvisning ved å lukke dette vinduet (eller klikk 'ti
 | Beskrivelse
 
 | Evnen til å se hvilke data som konsument har behov for
-| Forklaring:
+a| Forklaring:
 Konsument må ha fokus på å etterspørre og bruke data fra tilbydere	
 
 Løsning:
 En mulighet er at konsument har ansatte/ressurser som har datadeling som spesialområde og har tid og ressurser til å utføre oppgaven 
 
 | Evnen til å be om tilgang til data
-| Forklaring:
+a| Forklaring:
 Datakonsument må evne å be om tilgang til aktuelle data
 
 Konsument må sørge for at tilbyder har forstått hva som  etterspørres slik at misforståelser unngås	
@@ -50,7 +50,7 @@ Tilgjengelige ressurser til dialogen med tilbyder
 
 
 | Evnen til å finne frem til data blant tilbyders datakataloger og lignende
-| Forklaring:
+a| Forklaring:
 Datakonsument trenger kompetanse på å finne frem til data slik at data som tilbys oppdages lett. 	
 
 Løsning:
@@ -59,7 +59,7 @@ Kompetansebygging hos konsument på hvor data kan finnes/etterspørres
 
 
 | Evnen til å vurdere om tilbyder kan dele etterspurte data 
-| Forklaring:
+a| Forklaring:
 Konsument må evne å vurdere om data som etterspørres kan deles. En del data er unntatt offentlighet som kan gjøre at tilbyder ikke har hjemmel til dele. Dersom etterspurte data er ressurskrevende å dele kan tilbyder velge å ikke dele 	
 
 Løsning:
@@ -68,7 +68,7 @@ Bygge kompetanse på hvilke restriksjoner som gjelder ved deling av data
 
 
 | Evnen til å utvikle IT løsninger for å motta data 
-| Forklaring:
+a| Forklaring:
 Konsument må sørge for å ha tekniske løsninger som støtter innhenting av dataene, og helst at dataene kan hentes på ønsket format.	
 
 Løsning:
@@ -77,45 +77,45 @@ Kompetanse på valg av IT løsninger, samt utvikling av IT løsningene
 
 
 | Evnen til å innhente og bruke åpne data
-| Forklaring:
+a| Forklaring:
 Konsument må vite hvordan dataene skal mottas og brukes. 	
 
 Løsning:
 Kompetanse på bruk av åpne data
 
 | Data-konsument
-| Den som innhenter eller mottar data fra andre aktører.
+a| Den som innhenter eller mottar data fra andre aktører.
 
 | Innhent data
-| 
+a| 
 
 | Oppdag data og datakilder
-| 
+a| 
 
 | Be  om tilganger og abonnementer
-| 
+a| 
 
 | Forespør og motta data
-| 
+a| 
 
 | Etabler avtaler og løsninger for datainnhenting
-| 
+a| 
 
 | Forvalt og forbedre opplegg for innhenting av data
-| 
+a| 
 
 | Ta rede på behov for innhenting av data
-| 
+a| 
 
 | Evnen til å gi tilbyder tilbakemelding
-| Forklaring:
+a| Forklaring:
 Datakonsument må evne å gi tilbyder tilbakemelding på hvordan dialogen med tilbyder oppleves. Dette for å bidra til at opplegget for datadeling forbedres 	
 
 Løsning:
 Konsument bør ha som rutine å gi tilbyder tilbakemelding på hvordan datadelingen fungerer 
 
 | Evnen til å vurdere om etterspurte data er tilgjengeliggjort som ‘Åpne data’
-| Forklaring:
+a| Forklaring:
 Konsument må finne ut om etterspurte data helt eller delvis er åpent tilgjengelighet. Dersom dataene er åpne kan konsument hente aktuelle data uten å henvende seg til tilbyder	
 
 Løsning:
@@ -124,14 +124,14 @@ Bygge kompetanse på ‘Åpne data’
 
 
 | Evnen til å dokumentere behandlingsgrunnlag 
-| Forklaring:
+a| Forklaring:
 Konsument må vite hva som kreves av behandlingsgrunnlag dersom henvendelsen gjelder personopplysninger. Behandlingsgrunnlaget må dokumenteres overfor tilbyder	
 
 Løsning:
 Konsument må ha tilstrekkelig kompetanse på hva som kreves ved deling av personopplysninger
 
 | Evnen til å inngå avtaler
-| Forklaring:
+a| Forklaring:
 I en del tilfeller vil det være behov for utleveringsavtale som regulerer hvordan data utleveres og hvordan dataene brukes
 
 Dersom konsument skal betale for dataene må pris avklares og tas inn i avtale med tilbyder	
@@ -141,7 +141,7 @@ Tilstrekkelig kompetanse på inngåelse av avtaler
 
 
 | Evnen til å motta data etter henvendelse til datatilbyder
-| Forklaring:
+a| Forklaring:
 Konsument må vite hvordan dataene skal mottas og brukes. 
 
 Krav i eventuell utleveringsavtale må følges. Spesielt krav til sikkerhet må ivaretas, samt krav til håndtering av personopplysninger og andre skjermingsverdige data	

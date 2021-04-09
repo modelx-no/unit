@@ -29,7 +29,7 @@ TIP: Gå tilbake til standardvisning ved å lukke dette vinduet (eller klikk 'ti
 | Beskrivelse
 
 | Datatilbyder
-| Tilbyder av data til andre aktører.
+a| Tilbyder av data til andre aktører.
 
 API Eiere  (kan eie Data som API gir tilgang til, eller system som tilbyr APIet)??
 
@@ -39,52 +39,52 @@ Data eier på to nivå: f. eks. studieavdelingen (er ikke dette behandlingsansva
 
 
 | Del  data
-| 
+a| 
 
 | Tilrettelegg for dataoppdagelse og datadeling
-| 
+a| 
 
 | Avgi data
-| 
+a| 
 
 
 | Sett opp avtaler, løsninger og tilganger etter henvendelse
-| 
+a| 
 
 | Motta henvendelser om datadeling
-| 
+a| 
 
 | Ta rede på egne data og krav til datadeling
-| 
+a| 
 
 
 
 | Forbedre løsninger, sikkerhet og datakvalitet (tilbyder)
-| 
+a| 
 
 | Data-konsument
-| Den som innhenter eller mottar data fra andre aktører.
+a| Den som innhenter eller mottar data fra andre aktører.
 
 | Innhent data
-| 
+a| 
 
 | Oppdag data og datakilder
-| 
+a| 
 
 | Be  om tilganger og abonnementer
-| 
+a| 
 
 | Forespør og motta data
-| 
+a| 
 
 | Etabler avtaler og løsninger for datainnhenting
-| 
+a| 
 
 | Ta rede på behov for innhenting av data
-| 
+a| 
 
 | Forbedre løsninger, sikkerhet og datakvalitet (konsument)
-| 
+a| 
 
 |===
 ****

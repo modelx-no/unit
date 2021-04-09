@@ -31,10 +31,10 @@ TIP: Gå tilbake til standardvisning ved å lukke dette vinduet (eller klikk 'ti
 | Beskrivelse
 
 | Tilganger konsument
-| Oversikt over hvilke API og OAUTH-scopes en virksomhet (representert ved organisasjonsnummer) skal ha tilgang til (utstedt token for).
+a| Oversikt over hvilke API og OAUTH-scopes en virksomhet (representert ved organisasjonsnummer) skal ha tilgang til (utstedt token for).
 
 | Datatilbyder
-| Tilbyder av data til andre aktører.
+a| Tilbyder av data til andre aktører.
 
 API Eiere  (kan eie Data som API gir tilgang til, eller system som tilbyr APIet)??
 
@@ -44,30 +44,30 @@ Data eier på to nivå: f. eks. studieavdelingen (er ikke dette behandlingsansva
 
 
 | Tilgjengeliggjør data etter forselpørsel
-| Prosessen med å tilby data gjennom et API til aktører utenfor egen virksomhet.
+a| Prosessen med å tilby data gjennom et API til aktører utenfor egen virksomhet.
 
 | Tildele tilganger til API
-| Prosess for å registrere hvilke databrukere som skal få tilgang
+a| Prosess for å registrere hvilke databrukere som skal få tilgang
 Sette policy, og grov tilgangsstyring gjennom maskinporten.
 
 
 | Inngå avtale om tilgang til data
-| Prosess for å inngå avtale om tilgang og bruk av data.
+a| Prosess for å inngå avtale om tilgang og bruk av data.
 
 | Registrere brukere av samtykke
-| Prosess for å registrere konsumenter som skal ha mulighet for å innhente samtykker som gir tilgang til en tjeneste.
+a| Prosess for å registrere konsumenter som skal ha mulighet for å innhente samtykker som gir tilgang til en tjeneste.
 
 Dette utføres kun om det er behov for samtykke for tilgang til dataene.
 
 | Maskinporten
-| Maskinporten sørger for sikker autentisering og tilgangskontroll for datautveksling mellom
+a| Maskinporten sørger for sikker autentisering og tilgangskontroll for datautveksling mellom
 virksomheter, maskin til maskin. Dette gir teknisk og organisatorisk samhandlingsevne.
 
 Mer om Maskinporten:
 https://www.digdir.no/digitale-felleslosninger/maskinporten/869
 
 | Altinn autorisasjon
-| Torget:
+a| Torget:
 Autorisasjonskomponenten i Altinn som gir muligheter til å delegere rettigheter til andre organisasjoner eller personer. Rettigheter til bruk av autorisasjonskomponenten baserer seg på registrerte roller i Enhetsregisteret.
 Altinn autorisasjon leverer også tjenester for å registrere og kontrollere samtykke gitt av person eller virksomhet.
 
@@ -82,29 +82,29 @@ https://www.altinndigital.no/produkter/styring-av-tilgang/
 
 
 | Registrere samtykkebasert tilgang
-| Tjeneste for å registerer konsumenter som kan innhente samtykke som gir grunnlag for utlevering fra datatilbyder.
+a| Tjeneste for å registerer konsumenter som kan innhente samtykke som gir grunnlag for utlevering fra datatilbyder.
 
 | Aktører som kan innhente samtykke for bruk av API
-| Oversikt over aktører som skal ha mulighet til å innhente samtykke som grunnlag for å få tilgang til data gjennom et API. 
+a| Oversikt over aktører som skal ha mulighet til å innhente samtykke som grunnlag for å få tilgang til data gjennom et API. 
 URL til konsumenten det kan innhentes samtykke for må inngå i beskrivelsen.
 
 | Tilgjengeliggjøre data etter forespørsel
-| 
+a| 
 
 | API tilgangs-forespørsel
-| API eieren får forespørsel om den vil gi konsumenten tilgang til APIet.
+a| API eieren får forespørsel om den vil gi konsumenten tilgang til APIet.
 
 | Godkjenn tilgang
-| 
+a| 
 
 | UHF tildel rettigheter til klienter
-| 
+a| 
 
 | Ressursportal
-| 
+a| 
 
 | Forespør dataeier
-| Harmoniserers med rolledefinisjoner.
+a| Harmoniserers med rolledefinisjoner.
 
 Kan en databehandler besvare forespørselen automatisk på grunnlag av forhåndsdefinerte instruks?
 

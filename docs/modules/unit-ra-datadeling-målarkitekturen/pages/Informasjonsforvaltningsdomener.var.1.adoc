@@ -29,10 +29,10 @@ TIP: Gå tilbake til standardvisning ved å lukke dette vinduet (eller klikk 'ti
 | Beskrivelse
 
 | Informasjonsforvaltningsdomener
-| 
+a| 
 
 | Strategi og styring
-| Hva organisasjonen gjør for å utvikle og opprettholde et sammenhengende bilde av fremtiden
+a| Hva organisasjonen gjør for å utvikle og opprettholde et sammenhengende bilde av fremtiden
 
 EUNIS: Strategy and Governance 
 
@@ -41,78 +41,78 @@ EUNIS: Strategy and Governance
 * pkt. 3
 
 | Kommersiell aktivitet
-| Alle egenskaper som kreves for å sikre at organisasjonen er i stand til å utvikle, levere, støtte og administrere kommersiell aktivitet.
+a| Alle egenskaper som kreves for å sikre at organisasjonen er i stand til å utvikle, levere, støtte og administrere kommersiell aktivitet.
 
 EUNIS: Commerical activity
 
 | Undervisning og læring
-| Alle kapabiliteter som kreves for å sikre at organisasjonen er i stand til å utvikle, levere, støtte og administrere undervisning og læring og studentopplevelsen.
+a| Alle kapabiliteter som kreves for å sikre at organisasjonen er i stand til å utvikle, levere, støtte og administrere undervisning og læring og studentopplevelsen.
 
 EUNIS: Teaching and learning
 
 | Leveranse av undervisning og læring
-| AKSJON: NTNU kommer med oppdatert forslag
+a| AKSJON: NTNU kommer med oppdatert forslag
 
 Hva organisasjonen gjør for å velge, allokere og administrere plassering av studenter i lærings- og praksismiljøer utenfor organisasjonen som en del av læreplanen.
 
 EUNIS: Teaching and Learning Delivery
 
 | Undervisnings- og læringsinnhold
-| AKSJON: NTNU - Teaching and learning content - NTNU sier "" ?? - mangler?
+a| AKSJON: NTNU - Teaching and learning content - NTNU sier "" ?? - mangler?
 
 EUNIS: Teaching and Learning Content
 
 | Studieadministrasjon
-| Alle aktiviteter som er rettet mot å håndtere faglige retningslinjer, forskrifter, planlegging og tilhørende tilbakemeldinger fra kunder.
+a| Alle aktiviteter som er rettet mot å håndtere faglige retningslinjer, forskrifter, planlegging og tilhørende tilbakemeldinger fra kunder.
 
 EUNIS: Student Administration
 
 | Studieplanlegging
-| Alle aktiviteter rettet mot lærere og administratorer som samarbeider om opprettelse, utvikling, konstruksjon, gjennomgang, godkjenning, vurdering og foredling av pensuminnhold for å oppnå ønskede studentresultater.
+a| Alle aktiviteter rettet mot lærere og administratorer som samarbeider om opprettelse, utvikling, konstruksjon, gjennomgang, godkjenning, vurdering og foredling av pensuminnhold for å oppnå ønskede studentresultater.
 
 EUNIS: Curriculum Management
 
 | Student-vurdering
-| AKSJON: NTNU kommer med definisjon
+a| AKSJON: NTNU kommer med definisjon
 
 | Forskning
-| Alle egenskaper som kreves for å sikre at organisasjonen er i stand til å utvikle, levere, støtte og administrere forskning.
+a| Alle egenskaper som kreves for å sikre at organisasjonen er i stand til å utvikle, levere, støtte og administrere forskning.
 
 EUNIS: Research
 
 | Forskningsproduksjon
-| Alle aktiviteter rettet mot å gjennomføre og levere selve forskningen.
+a| Alle aktiviteter rettet mot å gjennomføre og levere selve forskningen.
 
 EUNIS: Research Delivery
 
 | Kurratering av forskningsdata 
-| Hva organisasjonen gjør for å lagre, dele, bruke og gjenbruke datasett produsert fra forskningsprosjekter, inkludert datasettstyringsplanlegging og kuratering av datasett utover levetiden til enkeltprosjekter.
+a| Hva organisasjonen gjør for å lagre, dele, bruke og gjenbruke datasett produsert fra forskningsprosjekter, inkludert datasettstyringsplanlegging og kuratering av datasett utover levetiden til enkeltprosjekter.
 
 EUNIS: Dataset management
 
 | Forskningsforvaltning og prioritering
-| Hva organisasjonen gjør for å forvalte resultatene fra forskningsprosjekter, inkludert bevaring utover levetiden til enkeltprosjekter.
+a| Hva organisasjonen gjør for å forvalte resultatene fra forskningsprosjekter, inkludert bevaring utover levetiden til enkeltprosjekter.
 
 EUNIS: Output Management
 
 | Forskningsproduksjon
-| Hva organisasjonen gjør for å produsere forskning. Dette er utførelsen av forskningsprosjektet.
+a| Hva organisasjonen gjør for å produsere forskning. Dette er utførelsen av forskningsprosjektet.
 
 | Forskningspublisering
-| Alle aktiviteter rettet mot å publisere forskningsresultater og rapportere resultater.
+a| Alle aktiviteter rettet mot å publisere forskningsresultater og rapportere resultater.
 
 | Rapportering av forskningsresultater
-| Hva organisasjonen gjør for å utvikle og produsere rapporter om forskningsresultater, inkludert de som er nødvendige for å oppfylle kravene fra finansieringsorganer.
+a| Hva organisasjonen gjør for å utvikle og produsere rapporter om forskningsresultater, inkludert de som er nødvendige for å oppfylle kravene fra finansieringsorganer.
 
 EUNIS: Output Reporting
 
 | Publiseringsforvaltning
-| Hva organisasjonen gjør for å publisere og fremme forskningsresultater, og administrere publikasjonssamlingene sine helhetlig for å maksimere virkningen av dem.
+a| Hva organisasjonen gjør for å publisere og fremme forskningsresultater, og administrere publikasjonssamlingene sine helhetlig for å maksimere virkningen av dem.
 
 EUNIS: Publication Management
 
 | Forskningsfinansiering
-| Alle aktiviteter rettet mot å skaffe og forvalte midler til å gjennomføre forskningsprosjekter.
+a| Alle aktiviteter rettet mot å skaffe og forvalte midler til å gjennomføre forskningsprosjekter.
 
 EUNIS: Research funding
 

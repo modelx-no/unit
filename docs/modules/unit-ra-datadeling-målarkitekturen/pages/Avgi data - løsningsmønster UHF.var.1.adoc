@@ -30,11 +30,11 @@ TIP: Gå tilbake til standardvisning ved å lukke dette vinduet (eller klikk 'ti
 | Beskrivelse
 
 | Egen autorisasjons-komponent
-| Komponent for å håndheve virksomhetens regler for tilgang. 
+a| Komponent for å håndheve virksomhetens regler for tilgang. 
 Også kalt policy enforcement point (PEP).
 
 | Altinn autorisasjon
-| Torget:
+a| Torget:
 Autorisasjonskomponenten i Altinn som gir muligheter til å delegere rettigheter til andre organisasjoner eller personer. Rettigheter til bruk av autorisasjonskomponenten baserer seg på registrerte roller i Enhetsregisteret.
 Altinn autorisasjon leverer også tjenester for å registrere og kontrollere samtykke gitt av person eller virksomhet.
 
@@ -49,7 +49,7 @@ https://www.altinndigital.no/produkter/styring-av-tilgang/
 
 
 | Datatilbyder
-| Tilbyder av data til andre aktører.
+a| Tilbyder av data til andre aktører.
 
 API Eiere  (kan eie Data som API gir tilgang til, eller system som tilbyr APIet)??
 
@@ -59,38 +59,38 @@ Data eier på to nivå: f. eks. studieavdelingen (er ikke dette behandlingsansva
 
 
 | Tilgangskontroll-tjeneste
-| Tjeneste for å sjekke rettigheter til data. Kan være eksterne eller interne tjenester. Disse rettigheter kan være mer finkornet enn tilgangene administrert av autorisasjonstjeneren.
+a| Tjeneste for å sjekke rettigheter til data. Kan være eksterne eller interne tjenester. Disse rettigheter kan være mer finkornet enn tilgangene administrert av autorisasjonstjeneren.
 Eksempler på rettigheter kan komme av samtykker fra person eller virksomhet, eller rollebasert fra vergemål, familierelasjon el.
 
 | Avgi forespurte data gjennom API
-| Prosessen med å avgi data på forespørsel gjennom et egnet API.
+a| Prosessen med å avgi data på forespørsel gjennom et egnet API.
 
 | Motta  forespørsel om oppslag
-| Motta forespørsler fra API-konsument om å avgi data.
+a| Motta forespørsler fra API-konsument om å avgi data.
 
 | Avgi data
-| Prosessen med å gi svar på forespørselen.
+a| Prosessen med å gi svar på forespørselen.
 
 | Kontroller tilgang
-| Kontroll og håndheving av konsumentens rettigheter til å få forespurte data.  I tillegg til "validering av sikkerhetsbillet", kan det være behov for kontroll mot virksomhetsinterne policies.
+a| Kontroll og håndheving av konsumentens rettigheter til å få forespurte data.  I tillegg til "validering av sikkerhetsbillet", kan det være behov for kontroll mot virksomhetsinterne policies.
 
 | Autentisere konsument
-| Prosessen med å autentisere en konsument.
+a| Prosessen med å autentisere en konsument.
 
 | Datautvekslings-tjeneste
-| Tjeneste for utveksling av data over aktuell transportprotokoll, f.eks, gjennom asynkrone medlinger eller synkrone API-oppslag.
+a| Tjeneste for utveksling av data over aktuell transportprotokoll, f.eks, gjennom asynkrone medlinger eller synkrone API-oppslag.
 
 | Datautvekslings-tjeneste
-| Tjeneste for utveksling av data over aktuell transportprotokoll, f.eks, gjennom asynkrone medlinger eller synkrone API-oppslag.
+a| Tjeneste for utveksling av data over aktuell transportprotokoll, f.eks, gjennom asynkrone medlinger eller synkrone API-oppslag.
 
 | Tokenvaliderings-tjeneste
-| Tjeneste som benyttes av tilbyder for å validere og kontrollere autentisiteten til et OAUTH2 token fra Maskinporten
+a| Tjeneste som benyttes av tilbyder for å validere og kontrollere autentisiteten til et OAUTH2 token fra Maskinporten
 
 | Avgi data
-| Evne til å avgi data på forespørsel. Kan omfatte tilgangsstyring.
+a| Evne til å avgi data på forespørsel. Kan omfatte tilgangsstyring.
 
 | API Gateway hos dataeier / OAuth resource server
-| API gateway beskytter ressurser og monitorerer tilgang. Den håndhever tilgangsstyring ved å validere aksesstokens og utfører eventuell fin-granulert tilgangskontroll. Den håndhever også volumbegrenseninger og samler data om bruken av APIer (logging). 
+a| API gateway beskytter ressurser og monitorerer tilgang. Den håndhever tilgangsstyring ved å validere aksesstokens og utfører eventuell fin-granulert tilgangskontroll. Den håndhever også volumbegrenseninger og samler data om bruken av APIer (logging). 
 
 
 Komponent som beskytter ressursene og monitorerer tilgang inklusivt:

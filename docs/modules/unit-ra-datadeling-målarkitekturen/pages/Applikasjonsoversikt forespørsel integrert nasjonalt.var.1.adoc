@@ -29,22 +29,22 @@ TIP: Gå tilbake til standardvisning ved å lukke dette vinduet (eller klikk 'ti
 | Beskrivelse
 
 | UHF Infrastruktur
-| 
+a| 
 
 | Tokentjeneste
-| Tjeneste som utsteder sikkerhetsbilletter. Sikkerhetsbillett utstedes basert på tildelte rettigheter og eventuelle representasjonsforhold.
+a| Tjeneste som utsteder sikkerhetsbilletter. Sikkerhetsbillett utstedes basert på tildelte rettigheter og eventuelle representasjonsforhold.
 
 | Registrere API i UHF sektoren
-| 
+a| 
 
 | UHF tildel rettigheter til klienter
-| 
+a| 
 
 | Ressursportal
-| 
+a| 
 
 | UHF Oauth2 autorisasjonstjener
-| Autorisasjonstjeneter realiserer tilgangskontroll gjennom å utstede OpenID Connect eller OAuth 2 grants og tokens. En autorisasjonstjener er også brukt til å realisere tilgangs policy. 
+a| Autorisasjonstjeneter realiserer tilgangskontroll gjennom å utstede OpenID Connect eller OAuth 2 grants og tokens. En autorisasjonstjener er også brukt til å realisere tilgangs policy. 
 
 Scope (rettighet) og Audience (identifikator eller ressurs-server f. eks. FS)
 
@@ -53,11 +53,11 @@ Rich authorization requsts (ny spesifikasjon) for å utvide scope begrep i IETF
 underenhet og behandlingssted, behandlingsgrunnlag og roller jobbes det med.
 
 | UHF Klientregister
-| Oversikt over alle klienter som er blitt tildelt tilgang til ressurser.
+a| Oversikt over alle klienter som er blitt tildelt tilgang til ressurser.
 
 
 | UHF API manager 
-| Administrativ komponent som kontrollerer policy og livssyklus for definisjon og forvaltning av API. Tilganger gjennom et API defineres i API manager og tildeles av autorisasjonstjener. Ansvaret til API manager inkluderer:
+a| Administrativ komponent som kontrollerer policy og livssyklus for definisjon og forvaltning av API. Tilganger gjennom et API defineres i API manager og tildeles av autorisasjonstjener. Ansvaret til API manager inkluderer:
  
 * Sentralisert API administrasjon og forvaltning av API-katalogen
 * Håndtering av registrerings- og introduksjonsprosesser for API utviklere
@@ -71,20 +71,20 @@ Hvordan ønsker API å sikre seg selv
 En klient må forholde seg til 
 
 | UHF API katalog
-| Oversikt over alle API som er registrert 
+a| Oversikt over alle API som er registrert 
 
 | Nasjonal infrastruktur
-| 
+a| 
 
 | Maskinporten
-| Maskinporten sørger for sikker autentisering og tilgangskontroll for datautveksling mellom
+a| Maskinporten sørger for sikker autentisering og tilgangskontroll for datautveksling mellom
 virksomheter, maskin til maskin. Dette gir teknisk og organisatorisk samhandlingsevne.
 
 Mer om Maskinporten:
 https://www.digdir.no/digitale-felleslosninger/maskinporten/869
 
 | Altinn autorisasjon
-| Torget:
+a| Torget:
 Autorisasjonskomponenten i Altinn som gir muligheter til å delegere rettigheter til andre organisasjoner eller personer. Rettigheter til bruk av autorisasjonskomponenten baserer seg på registrerte roller i Enhetsregisteret.
 Altinn autorisasjon leverer også tjenester for å registrere og kontrollere samtykke gitt av person eller virksomhet.
 
@@ -99,7 +99,7 @@ https://www.altinndigital.no/produkter/styring-av-tilgang/
 
 
 | Felles API-katalog
-| Del av Felles datakatalog som gir mulighet for å søke etter API-er og lese API-spesifikasjoner https://fellesdatakatalog.brreg.no/apis
+a| Del av Felles datakatalog som gir mulighet for å søke etter API-er og lese API-spesifikasjoner https://fellesdatakatalog.brreg.no/apis
 
 |===
 ****

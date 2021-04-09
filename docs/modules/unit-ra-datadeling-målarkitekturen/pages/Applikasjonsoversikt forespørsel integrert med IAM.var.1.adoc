@@ -29,28 +29,28 @@ TIP: Gå tilbake til standardvisning ved å lukke dette vinduet (eller klikk 'ti
 | Beskrivelse
 
 | Sluttbruker
-| 
+a| 
 
 | Klient
-| 
+a| 
 
 | Identitetstilbyder
-| 
+a| 
 
 | UHF Infrastruktur
-| 
+a| 
 
 | Ressursportal
-| 
+a| 
 
 | Roller og tilgangsregler
-| 
+a| 
 
 | Attributter /grunndata
-| 
+a| 
 
 | UHF Oauth2 autorisasjonstjener
-| Autorisasjonstjeneter realiserer tilgangskontroll gjennom å utstede OpenID Connect eller OAuth 2 grants og tokens. En autorisasjonstjener er også brukt til å realisere tilgangs policy. 
+a| Autorisasjonstjeneter realiserer tilgangskontroll gjennom å utstede OpenID Connect eller OAuth 2 grants og tokens. En autorisasjonstjener er også brukt til å realisere tilgangs policy. 
 
 Scope (rettighet) og Audience (identifikator eller ressurs-server f. eks. FS)
 
@@ -59,23 +59,23 @@ Rich authorization requsts (ny spesifikasjon) for å utvide scope begrep i IETF
 underenhet og behandlingssted, behandlingsgrunnlag og roller jobbes det med.
 
 | UHF Klientregister
-| Oversikt over alle klienter som er blitt tildelt tilgang til ressurser.
+a| Oversikt over alle klienter som er blitt tildelt tilgang til ressurser.
 
 
 | UHF tildel rettigheter til klienter
-| 
+a| 
 
 | UiX
-| 
+a| 
 
 | Kildedata
-| 
+a| 
 
 | Kildedata
-| 
+a| 
 
 | API Gateway hos dataeier / OAuth resource server
-| API gateway beskytter ressurser og monitorerer tilgang. Den håndhever tilgangsstyring ved å validere aksesstokens og utfører eventuell fin-granulert tilgangskontroll. Den håndhever også volumbegrenseninger og samler data om bruken av APIer (logging). 
+a| API gateway beskytter ressurser og monitorerer tilgang. Den håndhever tilgangsstyring ved å validere aksesstokens og utfører eventuell fin-granulert tilgangskontroll. Den håndhever også volumbegrenseninger og samler data om bruken av APIer (logging). 
 
 
 Komponent som beskytter ressursene og monitorerer tilgang inklusivt:
@@ -96,7 +96,7 @@ Det må være et tydeligvalg om hvem (gateway eller API) har ansvar for sikkerhe
 
 
 | Autentiseringstjeneste
-| Tjeneste som benyttes av tilbyder for å autentisere aktuell konsument.
+a| Tjeneste som benyttes av tilbyder for å autentisere aktuell konsument.
 
 |===
 ****
