@@ -18,7 +18,7 @@ endif::[]
 image::{imagepath}Applikasjonsoversikt forespørsel integrert nasjonalt.png[alt=Applikasjonsoversikt forespørsel integrert nasjonalt image]
 
 
-TIPS: Gå tilbake til standardvisning ved å klikke 'tilbake' (eller lukk dette vinduet om det er nytt)
+TIP: Gå tilbake til standardvisning ved å klikke 'tilbake' (eller lukk dette vinduet om det er nytt)
 
 
 [cols ="1,3", options="header"]
@@ -103,7 +103,7 @@ a| Del av Felles datakatalog som gir mulighet for å søke etter API-er og lese 
 
 |===
 ****
-TIPS: Gå tilbake til standardvisning ved å klikke 'tilbake' (eller lukk dette vinduet om det er nytt)
+TIP: Gå tilbake til standardvisning ved å klikke 'tilbake' (eller lukk dette vinduet om det er nytt)
 ****
 
 

@@ -18,7 +18,7 @@ endif::[]
 image::{imagepath}Applikasjonsoversikt forespørsel integrert med IAM.png[alt=Applikasjonsoversikt forespørsel integrert med IAM image]
 
 
-TIPS: Gå tilbake til standardvisning ved å klikke 'tilbake' (eller lukk dette vinduet om det er nytt)
+TIP: Gå tilbake til standardvisning ved å klikke 'tilbake' (eller lukk dette vinduet om det er nytt)
 
 
 [cols ="1,3", options="header"]
@@ -100,7 +100,7 @@ a| Tjeneste som benyttes av tilbyder for å autentisere aktuell konsument.
 
 |===
 ****
-TIPS: Gå tilbake til standardvisning ved å klikke 'tilbake' (eller lukk dette vinduet om det er nytt)
+TIP: Gå tilbake til standardvisning ved å klikke 'tilbake' (eller lukk dette vinduet om det er nytt)
 ****
 
 

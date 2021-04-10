@@ -20,7 +20,7 @@ endif::[]
 image::{imagepath}Innhent data, detaljert verdistrøm konsument med kapabiliteter.png[alt=Innhent data, detaljert verdistrøm konsument med kapabiliteter image]
 
 
-TIPS: Gå tilbake til standardvisning ved å klikke 'tilbake' (eller lukk dette vinduet om det er nytt)
+TIP: Gå tilbake til standardvisning ved å klikke 'tilbake' (eller lukk dette vinduet om det er nytt)
 
 
 [cols ="1,3", options="header"]
@@ -152,7 +152,7 @@ Rutiner for riktig behandling av data i henhold til utleveringsavtale. Dette gje
 
 |===
 ****
-TIPS: Gå tilbake til standardvisning ved å klikke 'tilbake' (eller lukk dette vinduet om det er nytt)
+TIP: Gå tilbake til standardvisning ved å klikke 'tilbake' (eller lukk dette vinduet om det er nytt)
 ****
 
 
