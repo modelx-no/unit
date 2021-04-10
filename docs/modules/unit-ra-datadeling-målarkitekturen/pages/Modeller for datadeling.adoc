@@ -39,4 +39,5 @@ er uendret.
 
 :leveloffset: +1
 include::main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Del og innhent data, verdistrøm.adoc[]
+include::main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Test-tom-tabell.adoc[]
 :leveloffset: -1
