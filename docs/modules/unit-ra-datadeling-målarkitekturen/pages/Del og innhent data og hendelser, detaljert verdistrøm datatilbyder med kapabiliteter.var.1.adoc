@@ -30,7 +30,7 @@ Prosesser for å dele data som åpne data
 image::{imagepath}Del og innhent data og hendelser, detaljert verdistrøm datatilbyder med kapabiliteter.png[alt=Del og innhent data og hendelser, detaljert verdistrøm datatilbyder med kapabiliteter image]
 
 
-TIP: Gå tilbake til standardvisning ved å lukke dette vinduet (eller klikk 'tilbake')
+TIPS: Gå tilbake til standardvisning ved å klikke 'tilbake' (eller lukk dette vinduet om det er nytt)
 
 
 [cols ="1,3", options="header"]
@@ -261,7 +261,7 @@ Personer som er ansvarlige for virksomhetens prosesser for deling av data må be
 
 |===
 ****
-TIP: Gå tilbake til standardvisning ved å lukke dette vinduet (eller klikk 'tilbake')
+TIPS: Gå tilbake til standardvisning ved å klikke 'tilbake' (eller lukk dette vinduet om det er nytt)
 ****
 
 
