@@ -18,8 +18,5 @@ endif::[]
 image::{imagepath}Test-tom-tabell.png[alt=Test-tom-tabell image]
 
 
-****
-xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Test-tom-tabell.var.1.adoc[Vis detaljer om elementene i diagrammet] (Tips: kbd:[Shift]-klikk for å åpne i nytt vindu)
-****
 
 
