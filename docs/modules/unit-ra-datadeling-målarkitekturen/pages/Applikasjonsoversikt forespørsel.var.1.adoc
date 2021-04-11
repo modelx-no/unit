@@ -71,7 +71,7 @@ a| Oversikt over alle API som er registrert
 a| 
 
 | UHF tildel rettigheter til klienter
-a| Dok...
+a| Dokumentasjon
 
 | UiX
 a| 
