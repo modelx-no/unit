@@ -1,4 +1,4 @@
-= Applikasjonsoversikt forespørsel
+= Applikasjonsoversikt forespørsel integrert med IAM
 :wysiwig_editing: 1
 ifeval::[{wysiwig_editing} == 1]
 :imagepath: ../images/
@@ -12,29 +12,41 @@ endif::[]
 :sectnums:
 :sectnumlevels: 9
 
-Narrativ for dette "viewet"...
 
-.Applikasjonsoversikt forespørsel
-image::{imagepath}Applikasjonsoversikt forespørsel.png[alt=Applikasjonsoversikt forespørsel image]
+
+.Applikasjonsoversikt forespørsel integrert med IAM
+image::{imagepath}Applikasjonsoversikt forespørsel integrert med IAM.png[alt=Applikasjonsoversikt forespørsel integrert med IAM image]
 
 
 TIP: Gå tilbake til standardvisning ved å klikke 'tilbake' (eller lukk dette vinduet om det er nytt)
 
 
 [cols ="1,3", options="header"]
-.Elementer i view for Applikasjonsoversikt forespørsel
+.Elementer i view for Applikasjonsoversikt forespørsel integrert med IAM
 |===
 
 | Element
 | Beskrivelse
 
+| Sluttbruker
+a| 
+
+| Klient
+a| 
+
+| Identitetstilbyder
+a| 
+
 | UHF Infrastruktur
 a| 
 
-| Tokentjeneste
-a| Tjeneste som utsteder sikkerhetsbilletter. Sikkerhetsbillett utstedes basert på tildelte rettigheter og eventuelle representasjonsforhold.
-
 | Ressursportal
+a| 
+
+| Roller og tilgangsregler
+a| 
+
+| Attributter /grunndata
 a| 
 
 | UHF Oauth2 autorisasjonstjener
@@ -50,54 +62,13 @@ underenhet og behandlingssted, behandlingsgrunnlag og roller jobbes det med.
 a| Oversikt over alle klienter som er blitt tildelt tilgang til ressurser.
 
 
-| UHF API manager 
-a| Administrativ komponent som kontrollerer policy og livssyklus for definisjon og forvaltning av API. Tilganger gjennom et API defineres i API manager og tildeles av autorisasjonstjener. Ansvaret til API manager inkluderer:
- 
-* Sentralisert API administrasjon og forvaltning av API-katalogen
-* Håndtering av registrerings- og introduksjonsprosesser for API utviklere
-* Håndtere livssyklusen til et API
-
-
-Ivareta registrering, forvaltning og og utvikling av klientrettigheter
-
-Hva tilbyr API av datamodell
-Hvordan ønsker API å sikre seg selv
-En klient må forholde seg til 
-
-| UHF API katalog
-a| Oversikt over alle API som er registrert 
-
-| Registrere API i UHF sektoren
-a| 
-
 | UHF tildel rettigheter til klienter
-a| Dok...
+a| 
 
 | UiX
 a| 
 
-| API Gateway hos dataeier / OAuth resource server
-a| API gateway beskytter ressurser og monitorerer tilgang. Den håndhever tilgangsstyring ved å validere aksesstokens og utfører eventuell fin-granulert tilgangskontroll. Den håndhever også volumbegrenseninger og samler data om bruken av APIer (logging). 
-
-
-Komponent som beskytter ressursene og monitorerer tilgang inklusivt:
-
-*  Validere tilgangstoken
-*  Beskytte mot inntrenging og andre trusler
-• Håndtere volumbegrensninger og andre abonnementsordninger
-• Håndheve tilgangsstyring
-• Samle inn data om bruken av API-er
-• [orkestrering mellom interntjeneser??]
-
-Prinsipp fra Steiner:
-Oppgaver både sikkerhetsperspektiv og forvaltningsperspektivet
-Dersom gatway skal stå for sikkerheten, MÅ VÆRE SIKKER PÅ at API ikke kan nås utenom gateway
-Noen må passe VELDIG godt på gatewayen og holder den oppdatert.
-
-Det må være et tydeligvalg om hvem (gateway eller API) har ansvar for sikkerhetsmessig.
-
-
-| UiO
+| Kildedata
 a| 
 
 | Kildedata
@@ -124,8 +95,8 @@ Noen må passe VELDIG godt på gatewayen og holder den oppdatert.
 Det må være et tydeligvalg om hvem (gateway eller API) har ansvar for sikkerhetsmessig.
 
 
-| Kildedata
-a| 
+| Autentiseringstjeneste
+a| Tjeneste som benyttes av tilbyder for å autentisere aktuell konsument.
 
 |===
 ****

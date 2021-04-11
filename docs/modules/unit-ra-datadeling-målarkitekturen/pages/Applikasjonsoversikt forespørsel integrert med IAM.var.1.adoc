@@ -63,7 +63,7 @@ a| Oversikt over alle klienter som er blitt tildelt tilgang til ressurser.
 
 
 | UHF tildel rettigheter til klienter
-a| 
+a| Dok...
 
 | UiX
 a| 
