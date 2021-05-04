@@ -1,0 +1,25 @@
+= Del og innhent data, verdistrøm for både tilbyder og konsument - UHF
+:wysiwig_editing: 1
+ifeval::[{wysiwig_editing} == 1]
+:imagepath: ../images/
+endif::[]
+ifeval::[{wysiwig_editing} == 0]
+:imagepath: main@unit-ra:unit-ra-datadeling-metode:
+endif::[]
+:toc: left
+:experimental:
+:toclevels: 4
+:sectnums:
+:sectnumlevels: 9
+
+Tekst overordnede verdistrømm for datadeling for datatilbyder og datakonsument.
+
+.Del og innhent data, verdistrøm for både tilbyder og konsument - UHF
+image::{imagepath}Del og innhent data, verdistrøm for både tilbyder og konsument - UHF.png[alt=Del og innhent data, verdistrøm for både tilbyder og konsument - UHF image]
+
+
+****
+xref:main@unit-ra:unit-ra-datadeling-metode:page$Del og innhent data, verdistrøm for både tilbyder og konsument - UHF.var.1.adoc[Vis detaljer om elementene i diagrammet] (Tips: kbd:[Shift]-klikk for å åpne i nytt vindu)
+****
+
+
