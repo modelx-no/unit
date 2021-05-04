@@ -1,5 +1,0 @@
-
-
-:leveloffset: +1
-include::main@unit-ra:unit-ra-datadeling-definisjoner:page$Definisjoner.adoc[]
-:leveloffset: -1
