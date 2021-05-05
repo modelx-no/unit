@@ -1,10 +1,10 @@
-= Vedlegg 1 - Definisjoner
+= Økosystemer, tjenestekjeder og tverrgående prosesser
 :wysiwig_editing: 1
 ifeval::[{wysiwig_editing} == 1]
 :imagepath: ../images/
 endif::[]
 ifeval::[{wysiwig_editing} == 0]
-:imagepath: main@unit-ra:unit-ra-datadeling-definisjoner:
+:imagepath: main@unit-ra:unit-ra-datadeling-introduksjon:
 endif::[]
 :toc: left
 :experimental:
@@ -12,8 +12,6 @@ endif::[]
 :sectnums:
 :sectnumlevels: 9
 
+//heidi:
+#input fra tjenestedesignprosess rundt muliggjørende økosystem#
 
-
-:leveloffset: +1
-include::main@unit-ra:unit-ra-datadeling-definisjoner:page$Definisjoner.adoc[]
-:leveloffset: -1

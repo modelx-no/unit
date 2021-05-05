@@ -1,4 +1,4 @@
-= Føderert API management
+= Test-tom-tabell
 :wysiwig_editing: 1
 ifeval::[{wysiwig_editing} == 1]
 :imagepath: ../images/
@@ -11,6 +11,12 @@ endif::[]
 :toclevels: 4
 :sectnums:
 :sectnumlevels: 9
+
+Når ingen av elementene i diagrammet har Documentation property utfylt, skal det ikke genereres fil for detaljert dok, ei eller pekes til en slik fil.	
+
+.Test-tom-tabell
+image::{imagepath}Test-tom-tabell.png[alt=Test-tom-tabell image]
+
 
 
 

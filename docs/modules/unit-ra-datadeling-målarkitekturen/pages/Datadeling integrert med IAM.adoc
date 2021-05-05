@@ -1,10 +1,10 @@
-= Vedlegg 1 - Definisjoner
+= Datadeling integrert med IAM
 :wysiwig_editing: 1
 ifeval::[{wysiwig_editing} == 1]
 :imagepath: ../images/
 endif::[]
 ifeval::[{wysiwig_editing} == 0]
-:imagepath: main@unit-ra:unit-ra-datadeling-definisjoner:
+:imagepath: main@unit-ra:unit-ra-datadeling-målarkitekturen:
 endif::[]
 :toc: left
 :experimental:
@@ -14,6 +14,3 @@ endif::[]
 
 
 
-:leveloffset: +1
-include::main@unit-ra:unit-ra-datadeling-definisjoner:page$Definisjoner.adoc[]
-:leveloffset: -1
