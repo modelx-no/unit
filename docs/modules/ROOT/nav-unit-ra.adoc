@@ -4,12 +4,9 @@
 // :lang: no ------------>
 ifeval::["{lang}" == "no"]
 
-//* xref:unit-ra:ROOT:index.adoc[Om UNIT referansearkitekturer]
-
-
-* xref:unit-ra:Bøker:Referansearkitektur for deling av data i høyere utdanning og forsking.adoc[Referansearkitektur for deling av data i høyere utdanning og forsking]
-
-** xref:[asdhasj daskjd] 
+///* xref:index.adoc[Om UNIT referansearkitekturer]
+* xref:unit-ra:ROOT:index.adoc[Om UNIT referansearkitekturer]
+* xref:unit-ra:Bøker:Referansearkitektur for deling av data i høyere utdanning og forsking.adoc[]
 
 
 endif::[]
