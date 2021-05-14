@@ -1,4 +1,4 @@
-= Informasjonsforvaltningsdomener
+= Organisering og forvaltning av informasjon i domener for høyskoler, universiteter og forskning
 :wysiwig_editing: 1
 ifeval::[{wysiwig_editing} == 1]
 :imagepath: ../images/
@@ -23,12 +23,12 @@ domene. Domenene er også ansvarlig for forvaltning av egen informasjon.
 Referansearkitekturen foreslår roller som har dette ansvaret i seksjonen
 _Roller og ansvar for datadeling og informasjonsforvaltning_.
 
-.Informasjonsforvaltningsdomener
-image::{imagepath}Informasjonsforvaltningsdomener.png[alt=Informasjonsforvaltningsdomener image]
+.Organisering og forvaltning av informasjon i domener for høyskoler, universiteter og forskning
+image::{imagepath}Organisering og forvaltning av informasjon i domener for høyskoler, universiteter og forskning.png[alt=Organisering og forvaltning av informasjon i domener for høyskoler, universiteter og forskning image]
 
 
 ****
-xref:main@unit-ra:unit-ra-datadeling-tilnærming:page$Informasjonsforvaltningsdomener.var.1.adoc[Vis detaljer om elementene i diagrammet] (Tips: kbd:[Shift]-klikk for å åpne i nytt vindu)
+xref:main@unit-ra:unit-ra-datadeling-tilnærming:page$Organisering og forvaltning av informasjon i domener for høyskoler, universiteter og forskning.var.1.adoc[Vis detaljer om elementene i diagrammet] (Tips: kbd:[Shift]-klikk for å åpne i nytt vindu)
 ****
 
 
