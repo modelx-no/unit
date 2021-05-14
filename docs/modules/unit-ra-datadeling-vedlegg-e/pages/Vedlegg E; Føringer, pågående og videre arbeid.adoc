@@ -1,10 +1,10 @@
-= Vedlegg - Føringer, pågående og videre arbeid
+= Vedlegg E; Føringer, pågående og videre arbeid
 :wysiwig_editing: 1
 ifeval::[{wysiwig_editing} == 1]
 :imagepath: ../images/
 endif::[]
 ifeval::[{wysiwig_editing} == 0]
-:imagepath: main@unit-ra:unit-ra-datadeling-føringer:
+:imagepath: main@unit-ra:unit-ra-datadeling-vedlegg-e:
 endif::[]
 :toc: left
 :experimental:
@@ -120,5 +120,5 @@ videre fra en tjeneste data en er autoritativ for
 
 
 :leveloffset: +1
-include::main@unit-ra:unit-ra-datadeling-definisjoner:page$Om arkitekturprinsippenes føringer for datadeling.adoc[]
+include::main@unit-ra:unit-ra-datadeling-vedlegg-e:page$Om arkitekturprinsippenes føringer for datadeling.adoc[]
 :leveloffset: -1

@@ -1,10 +1,10 @@
-= Vedlegg - Muliggjørende økosystem
+= Vedlegg C; Muliggjørende økosystem
 :wysiwig_editing: 1
 ifeval::[{wysiwig_editing} == 1]
 :imagepath: ../images/
 endif::[]
 ifeval::[{wysiwig_editing} == 0]
-:imagepath: main@unit-ra:unit-ra-datadeling-muliggjørende-økosystem:
+:imagepath: main@unit-ra:unit-ra-datadeling-vedlegg-c:
 endif::[]
 :toc: left
 :experimental:
