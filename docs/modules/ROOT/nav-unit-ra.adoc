@@ -10,7 +10,7 @@ ifeval::["{lang}" == "no"]
 
 //* xref:unit-ra:Bøker:Referansearkitektur for deling av data i høyere utdanning og forsking.adoc[]
 
-* xref:main@unit-ra:unit-ra-datadeling-introduksjon:page$Introduksjon.adoc[Referansearkitektur for deling av data i høyere utdanning og forsking]
+* xref:main@unit-ra:unit-ra-datadeling-introduksjon:page$RA-bok.adoc[Referansearkitektur for deling av data i høyere utdanning og forsking]
 
 
 
