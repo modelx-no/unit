@@ -37,7 +37,7 @@ TIP: Gå tilbake til standardvisning ved å klikke 'tilbake' (eller lukk dette v
 | Element
 | Beskrivelse
 
-| Informasjonsforvaltningsdomener
+| Organisering og forvaltning av informasjon i domener for høyskoler, universiteter og forskning
 a| 
 
 | Strategi og styring
