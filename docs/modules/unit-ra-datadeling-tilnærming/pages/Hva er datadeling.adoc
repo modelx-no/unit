@@ -4,7 +4,7 @@ ifeval::[{wysiwig_editing} == 1]
 :imagepath: ../images/
 endif::[]
 ifeval::[{wysiwig_editing} == 0]
-:imagepath: main@unit-ra:unit-ra-datadeling-metode:
+:imagepath: main@unit-ra:unit-ra-datadeling-tilnærming:
 endif::[]
 :toc: left
 :experimental:

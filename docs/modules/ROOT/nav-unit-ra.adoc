@@ -11,7 +11,7 @@ ifeval::["{lang}" == "no"]
 * xref:main@unit-ra:Bøker:page$Referansearkitektur for deling av data i høyere utdanning og forsking.adoc[]
 
 ** xref:main@unit-ra:unit-ra-datadeling-introduksjon:page$Introduksjon.adoc[Introduksjon]
-** xref:main@unit-ra:unit-ra-datadeling-metode:page$Metode.adoc[]
+** xref:main@unit-ra:unit-ra-datadeling-tilnærming:page$Tilnærming til utvikling av referansearkitekturen.adoc[]
 ** xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Datadelingsplattformen og felles komponentene i den.adoc[]
 ** xref:main@unit-ra:unit-ra-datadeling-datautveksling:page$Datautveksling.adoc[]
 ** xref:main@unit-ra:unit-ra-datadeling-rutiner:page$Rutiner.adoc[]

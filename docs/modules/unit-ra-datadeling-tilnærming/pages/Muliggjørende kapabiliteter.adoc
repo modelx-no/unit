@@ -4,7 +4,7 @@ ifeval::[{wysiwig_editing} == 1]
 :imagepath: ../images/
 endif::[]
 ifeval::[{wysiwig_editing} == 0]
-:imagepath: main@unit-ra:unit-ra-datadeling-metode:
+:imagepath: main@unit-ra:unit-ra-datadeling-tilnærming:
 endif::[]
 :toc: left
 :experimental:
@@ -33,7 +33,7 @@ image::{imagepath}Muliggjørende kapabiliteter.png[alt=Muliggjørende kapabilite
 
 
 ****
-xref:main@unit-ra:unit-ra-datadeling-metode:page$Muliggjørende kapabiliteter.var.1.adoc[Vis detaljer om elementene i diagrammet] (Tips: kbd:[Shift]-klikk for å åpne i nytt vindu)
+xref:main@unit-ra:unit-ra-datadeling-tilnærming:page$Muliggjørende kapabiliteter.var.1.adoc[Vis detaljer om elementene i diagrammet] (Tips: kbd:[Shift]-klikk for å åpne i nytt vindu)
 ****
 
 
