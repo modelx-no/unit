@@ -4,9 +4,23 @@
 // :lang: no ------------>
 ifeval::["{lang}" == "no"]
 
-///* xref:index.adoc[Om UNIT referansearkitekturer]
-* xref:unit-ra:ROOT:index.adoc[Om UNIT referansearkitekturer]
-* xref:unit-ra:Bøker:Referansearkitektur for deling av data i høyere utdanning og forsking.adoc[]
+//* xref:unit-ra:ROOT:index.adoc[Om UNIT referansearkitekturer]
+
+* xref:index.adoc[Om UNIT referansearkitekturer]
+
+* xref:unit-ra:Bøker:Referansearkitektur for deling av data i høyere utdanning og forsking.adoc[Referansearkitektur for deling av data i høyere utdanning og forsking]
+
+
+** xref:main@unit-ra:unit-ra-datadeling-introduksjon:page$Introduksjon.adoc[]
+** xref:main@unit-ra:unit-ra-datadeling-metode:page$Metode.adoc[]
+** xref:main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Datadelingsplattformen og felles komponentene i den.adoc[]
+** xref:main@unit-ra:unit-ra-datadeling-rutiner:page$Rutiner.adoc[]
+** xref:main@unit-ra:unit-ra-datadeling-roller:page$Roller og ansvar for informasjonsforvaltning.adoc[]
+** xref:main@unit-ra:unit-ra-datadeling-definisjoner:page$Vedlegg 1 - Definisjoner.adoc[]
+** xref:main@unit-ra:unit-ra-datadeling-issues:page$Vedlegg 2 - Behov for avklaringer og utfordringer i sektorens kontekst.adoc[]
+** xref:main@unit-ra:unit-ra-datadeling-muliggjørende-økosystem:page$Vedlegg 3 - Muliggjørende økosystem.adoc[]
+** xref:main@unit-ra:unit-ra-datadeling-behov-og-bruksområder:page$Vedlegg 4 - Behov og bruksområder.adoc[]
+** xref:main@unit-ra:unit-ra-datadeling-føringer:page$Vedlegg 5 - Føringer, pågående og videre arbeid.adoc[]
 
 
 endif::[]
@@ -23,4 +37,3 @@ ifeval::["{lang}" == "en"]
 
 endif::[]
 // :lang: en <-----------
-
