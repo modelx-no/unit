@@ -15,11 +15,11 @@ endif::[]
 
 
 :leveloffset: +1
-include::main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Datautvekslingsmønster.adoc[]
-include::main@unit-ra:unit-ra-datadeling-målarkitekturen:page$eOppslag Verdistrøm med kapabiliteter for tilbyder og konsument - UHF  .adoc[]
-include::main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Publiser API.adoc[]
-include::main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Tilgjengeliggjøre data etter forsepørsel løsningsmønster UHF.adoc[]
-include::main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Få tilgang til data - løsningsmønster UHF.adoc[]
-include::main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Innhente data - løsningsmønster UHF.adoc[]
-include::main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Avgi data - løsningsmønster UHF.adoc[]
+include::main@unit-ra:unit-ra-datadeling-datautveksling:page$Datautvekslingsmønster.adoc[]
+include::main@unit-ra:unit-ra-datadeling-datautveksling:page$eOppslag Verdistrøm med kapabiliteter for tilbyder og konsument - UHF  .adoc[]
+include::main@unit-ra:unit-ra-datadeling-datautveksling:page$Publiser API.adoc[]
+include::main@unit-ra:unit-ra-datadeling-datautveksling:page$Tilgjengeliggjøre data etter forsepørsel løsningsmønster UHF.adoc[]
+include::main@unit-ra:unit-ra-datadeling-datautveksling:page$Få tilgang til data - løsningsmønster UHF.adoc[]
+include::main@unit-ra:unit-ra-datadeling-datautveksling:page$Innhente data - løsningsmønster UHF.adoc[]
+include::main@unit-ra:unit-ra-datadeling-datautveksling:page$Avgi data - løsningsmønster UHF.adoc[]
 :leveloffset: -1

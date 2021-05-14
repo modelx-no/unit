@@ -19,10 +19,10 @@ https://nasjonal-arkitektur.github.io/architecture-repository/data-exchange-ra/b
 for datautveksling fra Digitaliseringsdirektoratet].
 
 :leveloffset: +1
-include::main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Publisering av hendelser - basiskonsept UHF.adoc[]
-include::main@unit-ra:unit-ra-datadeling-målarkitekturen:page$eNotifikasjon - oversikt over verdistrømmer UHF.adoc[]
-include::main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Grunnleggende begreper for publisering av hendelser - Hendelsesliste og Publiser og Abonner UHF.adoc[]
-include::main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Notifikasjonsinnhold - basiskonsept UHF.adoc[]
-include::main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Generere og publisere notifikasjoner - Publiser og Abonner UHF .adoc[]
-include::main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Konsumer notifikasjoner - Publiser og Abonner UHF.adoc[]
+include::main@unit-ra:unit-ra-datadeling-datautveksling:page$Publisering av hendelser - basiskonsept UHF.adoc[]
+include::main@unit-ra:unit-ra-datadeling-datautveksling:page$eNotifikasjon - oversikt over verdistrømmer UHF.adoc[]
+include::main@unit-ra:unit-ra-datadeling-datautveksling:page$Grunnleggende begreper for publisering av hendelser - Hendelsesliste og Publiser og Abonner UHF.adoc[]
+include::main@unit-ra:unit-ra-datadeling-datautveksling:page$Notifikasjonsinnhold - basiskonsept UHF.adoc[]
+include::main@unit-ra:unit-ra-datadeling-datautveksling:page$Generere og publisere notifikasjoner - Publiser og Abonner UHF .adoc[]
+include::main@unit-ra:unit-ra-datadeling-datautveksling:page$Konsumer notifikasjoner - Publiser og Abonner UHF.adoc[]
 :leveloffset: -1

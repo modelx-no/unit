@@ -23,6 +23,6 @@ kvalitetssikring og juridiske hensyn.
 
 
 :leveloffset: +1
-include::main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Be om oppdatering  - løsningsmønster i UHF sektoren .adoc[]
-include::main@unit-ra:unit-ra-datadeling-målarkitekturen:page$Håndtere forespørsel om oppdatering  - løsningsmønster UHF .adoc[]
+include::main@unit-ra:unit-ra-datadeling-datautveksling:page$Be om oppdatering  - løsningsmønster i UHF sektoren .adoc[]
+include::main@unit-ra:unit-ra-datadeling-datautveksling:page$Håndtere forespørsel om oppdatering  - løsningsmønster UHF .adoc[]
 :leveloffset: -1
