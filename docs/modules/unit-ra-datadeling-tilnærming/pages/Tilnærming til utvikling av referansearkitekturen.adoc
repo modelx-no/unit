@@ -1,5 +1,6 @@
 = Tilnærming til utvikling av referansearkitekturen
 :doctype: book
+:chapter-number: 3
 :wysiwig_editing: 1
 ifeval::[{wysiwig_editing} == 1]
 :imagepath: ../images/
@@ -12,7 +13,6 @@ endif::[]
 :toclevels: 4
 :sectnums:
 :sectnumlevels: 9
-
 
 :note-caption: NB!
 

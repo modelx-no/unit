@@ -12,13 +12,6 @@ endif::[]
 :sectnums:
 :sectnumlevels: 9
 
-
-:chapter-number: 3
-
-
-
-NOTE: Hei!
-
 Denne referansearkitekturen er utarbeidet med det som mål at høyere
 utdanning og forskning skal få en felles datadelingsplattform, digital
 samhandlingspraksis og informasjonsforvaltningspraksis.
