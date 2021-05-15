@@ -16,7 +16,7 @@ endif::[]
 
 
 .eOppslag Verdistrøm med kapabiliteter for tilbyder og konsument - UHF  
-image::{imagepath}eOppslag Verdistrøm med kapabiliteter for tilbyder og konsument - UHF  .png[alt=eOppslag Verdistrøm med kapabiliteter for tilbyder og konsument - UHF   image]
+image::{imagepath}eOppslag Verdistrøm med kapabiliteter for tilbyder og konsument - UHF, alternativt bilde[alt=eOppslag Verdistrøm med kapabiliteter for tilbyder og konsument - UHF   image]
 
 
 ****
