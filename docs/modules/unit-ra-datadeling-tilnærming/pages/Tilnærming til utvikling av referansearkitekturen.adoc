@@ -10,7 +10,7 @@ endif::[]
 :toc: left
 :experimental:
 :toclevels: 4
-:sectnums!:
+:sectnums:
 :sectnumlevels: 9
 
 :note-caption: NB!
@@ -21,6 +21,7 @@ forskning. Denne seksjonen veileder gjennom en presentasjon av hva som
 skal oppnås ved å definere hva datadeling er, en visjon om hva vi skal
 bruke det til, og modellene som skal skape fundament for utforming av
 løsningene i visjonen.
+
 
 :leveloffset: +1
 include::main@unit-ra:unit-ra-datadeling-tilnærming:page$Hva er datadeling.adoc[]
