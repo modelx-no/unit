@@ -10,7 +10,7 @@ endif::[]
 :toc: left
 :experimental:
 :toclevels: 4
-:sectnums:
+:sectnums!:
 :sectnumlevels: 9
 
 :note-caption: NB!
