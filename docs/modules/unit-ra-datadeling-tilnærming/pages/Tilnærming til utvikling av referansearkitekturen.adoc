@@ -11,6 +11,11 @@ endif::[]
 :toclevels: 4
 :sectnums:
 :sectnumlevels: 9
+:chapter-number: 2
+:note-caption: NB!
+
+
+NOTE: Hei!
 
 Denne referansearkitekturen skal gi veiledning til utforming av digitale
 samhandlingsløsninger for deling av data i høyere utdanning og
