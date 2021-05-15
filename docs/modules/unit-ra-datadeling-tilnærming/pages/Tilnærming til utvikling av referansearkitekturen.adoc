@@ -1,6 +1,5 @@
 = Tilnærming til utvikling av referansearkitekturen
 :doctype: book
-:chapter-number: 3
 :wysiwig_editing: 1
 ifeval::[{wysiwig_editing} == 1]
 :imagepath: ../images/
@@ -22,6 +21,10 @@ forskning. Denne seksjonen veileder gjennom en presentasjon av hva som
 skal oppnås ved å definere hva datadeling er, en visjon om hva vi skal
 bruke det til, og modellene som skal skape fundament for utforming av
 løsningene i visjonen.
+
+
+== Foregående kapittel a
+== Foregående kapittel b
 
 :leveloffset: +1
 include::main@unit-ra:unit-ra-datadeling-tilnærming:page$Hva er datadeling.adoc[]
