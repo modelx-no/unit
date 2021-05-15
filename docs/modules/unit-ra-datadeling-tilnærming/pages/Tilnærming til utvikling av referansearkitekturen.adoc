@@ -13,7 +13,7 @@ endif::[]
 :sectnums:
 :sectnumlevels: 9
 
-:note-caption: NB!
+//:note-caption: NB!
 
 Denne referansearkitekturen skal gi veiledning til utforming av digitale
 samhandlingsløsninger for deling av data i høyere utdanning og
@@ -23,7 +23,7 @@ bruke det til, og modellene som skal skape fundament for utforming av
 løsningene i visjonen.
 
 
-:leveloffset: +1
+:leveloffset: +2
 include::main@unit-ra:unit-ra-datadeling-tilnærming:page$Hva er datadeling.adoc[]
 include::main@unit-ra:unit-ra-datadeling-tilnærming:page$Økosystem.adoc[]
 include::main@unit-ra:unit-ra-datadeling-tilnærming:page$Domener.adoc[]
