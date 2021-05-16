@@ -1,5 +1,4 @@
 = Tilnærming til utvikling av referansearkitekturen
-:doctype: book
 :wysiwig_editing: 1
 ifeval::[{wysiwig_editing} == 1]
 :imagepath: ../images/
@@ -13,8 +12,6 @@ endif::[]
 :sectnums:
 :sectnumlevels: 9
 
-//:note-caption: NB!
-
 Denne referansearkitekturen skal gi veiledning til utforming av digitale
 samhandlingsløsninger for deling av data i høyere utdanning og
 forskning. Denne seksjonen veileder gjennom en presentasjon av hva som
@@ -22,8 +19,7 @@ skal oppnås ved å definere hva datadeling er, en visjon om hva vi skal
 bruke det til, og modellene som skal skape fundament for utforming av
 løsningene i visjonen.
 
-
-:leveloffset: +2
+:leveloffset: +1
 include::main@unit-ra:unit-ra-datadeling-tilnærming:page$Hva er datadeling.adoc[]
 include::main@unit-ra:unit-ra-datadeling-tilnærming:page$Økosystem.adoc[]
 include::main@unit-ra:unit-ra-datadeling-tilnærming:page$Domener.adoc[]
